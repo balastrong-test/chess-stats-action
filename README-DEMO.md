@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| AlexanderL | **Hikaru** | checkmated ❌ | 20/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/1R4Qp/2p1q1p1/2Pn4/8/4P1P1/5P1P/5BK1 b - -">Link</a> |
-| **Hikaru** | K_A_S_T_O_R | win 🥇 | 20/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rb3/1Nn1qpk1/R1p2bp1/1pB1p2p/1P2P2P/2P3PB/5P1K/Q7 b - -">Link</a> |
-| iliaguevnisim | **Hikaru** | win 🥇 | 20/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4Nk1/1p6/3p3p/p2P3n/P5p1/6b1/1P4BK/2R5 w - -">Link</a> |
-| **Hikaru** | Alexander_Donchenko | stalemate ⏸️ | 20/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/4PQ2/8/8/8/7N/6K1/8 b - -">Link</a> |
-| dropstoneDP | **Hikaru** | repetition ⏸️ | 20/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/r7/8/1p1Q4/p4P2/1P4PK/8/8 w - -">Link</a> |
-| **Hikaru** | Byniolus | win 🥇 | 20/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k2P3/2p2P1p/3p3P/3P4/pK1P4/8/6r1 b - -">Link</a> |
-| TheRigos | **Hikaru** | win 🥇 | 20/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/Np5p/2p1n1p1/8/2Pb4/6P1/P4KBP/8 w - -">Link</a> |
-| **Hikaru** | TanitoluwaAps116 | win 🥇 | 20/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/pp6/5Np1/7p/1qPQ4/6PP/P1R2P2/6K1 b - -">Link</a> |
-| MITerryble | **Hikaru** | agreed ⏸️ | 20/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -">Link</a> |
-| **Hikaru** | FairChess_on_YouTube | win 🥇 | 20/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/8/8/3B4/4P1K1/5PP1/6Q1/5k2 b - -">Link</a> |
+| TrimitziosP7 | **Hikaru** | win 🥇 | 21/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k4/p2pp3/1p5N/3P2pb/P1PBnbR1/KP3p2/8 w - -">Link</a> |
+| **Hikaru** | Azeryahu | win 🥇 | 21/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/Qq2b1k1/2pppnp1/1N2p3/P3P3/6NP/2P3P1/1K1R1R2 b - -">Link</a> |
+| **Hikaru** | TrimitziosP7 | win 🥇 | 21/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/pppqnp2/3p3p/2bPp2P/2B1N1pk/3P4/PPP1KPP1/R2Q4 b - -">Link</a> |
+| **Hikaru** | Susal_De_Silva | win 🥇 | 21/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2N5/7k/8/4PP2/1K6/1P4P1/8 b - -">Link</a> |
+| Manukyan_Artak | **Hikaru** | win 🥇 | 21/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/Bp3p2/2p5/2K5/2P5/4bB1P/6P1/4r3 w - -">Link</a> |
+| TrimitziosP7 | **Hikaru** | win 🥇 | 21/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/5pk1/3p2p1/Q1pP4/2R2NpP/3bqpP1/8/2R2K2 w - -">Link</a> |
+| **Hikaru** | biagiobiagin92 | win 🥇 | 21/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rrk2/p1p2qbQ/2p2p2/2B1p3/8/3P2R1/PPP3PP/5R1K b - -">Link</a> |
+| **Hikaru** | FritziSchach_Twitch | win 🥇 | 21/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k3r/2p1n3/4Q1p1/1pq2PBp/p2p2nP/P2P2N1/1PP3P1/4RRK1 b - -">Link</a> |
+| **Hikaru** | xX_TGR_Xx | win 🥇 | 21/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq1b1r/ppk1pNp1/2p4p/3n4/3P4/6Q1/PPP2PPP/R1B1KB1R b KQ -">Link</a> |
+| **Hikaru** | TrimitziosP7 | win 🥇 | 21/9/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/p3qp1r/P3k3/1PP2PR1/1K1Q4/8 b - -">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
