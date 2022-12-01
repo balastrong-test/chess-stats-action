@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Hikaru** | gmcorrales | win 🥇 | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/pp3pk1/4pN1p/4Q1p1/5P2/8/qr4PP/4K3 b - -">Link</a> |
-| gmcorrales | **Hikaru** | win 🥇 | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rk/7p/3p3q/Q2Pbpp1/Pp6/7P/1P3PK1/2R5 w - -">Link</a> |
-| **Hikaru** | gmcorrales | win 🥇 | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/8/KP6/P7/3k1p2/8/8/8 b - -">Link</a> |
-| gmcorrales | **Hikaru** | win 🥇 | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kN2/3R4/2pp4/p4p2/7P/r2p1KP1/5P2/4r3 w - -">Link</a> |
-| **Hikaru** | gmcorrales | win 🥇 | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4N3/5p2/5P2/2k2K2/1Q6/8 b - -">Link</a> |
-| gmcorrales | **Hikaru** | win 🥇 | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rbk1/4qp1p/3p2p1/3P2N1/6Q1/6BP/p4PPK/8 w - -">Link</a> |
-| **Hikaru** | gmcorrales | win 🥇 | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/1R6/1p2p2p/q2p4/3P4/1Q4P1/P4r1P/1KR1b3 b - -">Link</a> |
-| gmcorrales | **Hikaru** | win 🥇 | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p1Pk2/p7/1p5p/4p3/8/PP5K/8 w - -">Link</a> |
-| **Hikaru** | gmcorrales | win 🥇 | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5K2/6Pk/1P6/3b4/4p3/8/8/8 b - -">Link</a> |
-| gmcorrales | **Hikaru** | win 🥇 | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b2r1k/p3R2p/2pR4/2P5/2P5/3B4/P4p1q/3K4 w - -">Link</a> |
+| Semen_Khanin | **Hikaru** | win 🥇 | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/1p4p1/7p/1P6/2PP4/7R/5pPK/4rR2 w - -">Link</a> |
+| **Hikaru** | Semen_Khanin | win 🥇 | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1pqrnppB/p4b2/8/5P2/2P1BQ2/PP4PP/3R1RK1 b - -">Link</a> |
+| Semen_Khanin | **Hikaru** | win 🥇 | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/4R3/2r5/1p5P/4n1K1/P1p5/6P1/8 w - -">Link</a> |
+| **Hikaru** | Semen_Khanin | win 🥇 | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/3p1Bbp/b1n3p1/pp6/5B2/P7/1PP2PPP/2KRR3 b - -">Link</a> |
+| Semen_Khanin | **Hikaru** | win 🥇 | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5bk1/5p1p/6r1/6R1/b4B2/2P2B2/5PPK/1r6 w - -">Link</a> |
+| **Hikaru** | Semen_Khanin | win 🥇 | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p1p2R2/4Bnkp/5P2/2P5/PP1r2P1/7K b - f3">Link</a> |
+| Semen_Khanin | **Hikaru** | win 🥇 | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k4/p1pp1nNp/1pn5/4P3/1P1KN3/P5P1/8 w - -">Link</a> |
+| **Hikaru** | Semen_Khanin | win 🥇 | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3B4/3R1k2/2p2p2/Q3p1p1/P1P1Pn1p/1P3P1q/2P4N/3R3K b - -">Link</a> |
+| **Hikaru** | NikoTheodorou | win 🥇 | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1r1k/1p3ppp/1p1p1n2/2pP2B1/8/2P3Q1/PPB2PPP/R3R1K1 b - -">Link</a> |
+| NikoTheodorou | **Hikaru** | repetition ⏸️ | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/p2k3K/P5N1/1p6/8/7q/8/8 w - -">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
