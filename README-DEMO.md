@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Hikaru** | 0gZPanda | win 🥇 | 27/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/ppppnNpp/5pn1/8/2BPP3/2P5/P1P3PP/R1BQ1RK1 b kq -">Link</a> |
-| 0gZPanda | **Hikaru** | win 🥇 | 27/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/6pp/2P2p2/3Pp3/6P1/3K3P/p7/8 w - -">Link</a> |
-| **Hikaru** | 0gZPanda | win 🥇 | 27/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1p6/pQp3K1/2P2P2/5qp1/5P2/4R3/8 b - -">Link</a> |
-| 0gZPanda | **Hikaru** | win 🥇 | 27/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/5B2/3K1k2/1q6/7p/8/8/8 w - -">Link</a> |
-| **Hikaru** | 0gZPanda | win 🥇 | 27/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1b3/q4p1p/2p1p3/2P5/1nNQ4/1B6/1P3PPP/5RK1 b - -">Link</a> |
-| 0gZPanda | **Hikaru** | win 🥇 | 27/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/kpR5/2p5/8/2KP4/8/Prq5/8 w - -">Link</a> |
-| **Hikaru** | 0gZPanda | win 🥇 | 27/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1pkrP3/2p4r/p5K1/8/6Pp/7P/3R1R2 w - -">Link</a> |
-| 0gZPanda | **Hikaru** | win 🥇 | 27/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3Rp1p1/p3n3/6pk/7P/8/7K w - -">Link</a> |
-| **Hikaru** | 0gZPanda | win 🥇 | 27/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/pp1r2p1/1nqN1n1p/4Q3/8/1BP5/PP1R1PPP/3R2K1 b - -">Link</a> |
-| 0gZPanda | **Hikaru** | win 🥇 | 27/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/1p3ppp/6b1/p3p3/2P5/P1K1qN1P/QP1nB1P1/3RR3 w - -">Link</a> |
+| Firouzja2003 | **Hikaru** | win 🥇 | 27/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/1b4b1/p2p2R1/2nP4/4pr2/1B6/1PP2PP1/5K1R w - -">Link</a> |
+| **Hikaru** | Firouzja2003 | resigned ❌ | 27/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5bk1/1p4n1/pQ1p1r2/P2Pq3/1P6/1KR5/8 w - -">Link</a> |
+| Firouzja2003 | **Hikaru** | win 🥇 | 27/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pp5p/2p1q1p1/3n2r1/6B1/PQ5P/1P3P2/2R3K1 w - -">Link</a> |
+| **Hikaru** | Firouzja2003 | resigned ❌ | 27/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2P5/2r5/8/K7/8/1k6/8 w - -">Link</a> |
+| Firouzja2003 | **Hikaru** | win 🥇 | 27/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5q2/8/3pQ1pk/p1pP3p/PpBbP3/1P3rP1/4RP2/5K2 w - -">Link</a> |
+| **Hikaru** | Firouzja2003 | win 🥇 | 27/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/8/7k/7p/8/8/5K2/8 b - -">Link</a> |
+| Firouzja2003 | **Hikaru** | win 🥇 | 27/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p3R3/1pp4p/5prP/6P1/8/1P4K1/8 w - -">Link</a> |
+| **Hikaru** | Firouzja2003 | insufficient ⏸️ | 27/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3k4/4nK2/8/8/8/8 w - -">Link</a> |
+| Firouzja2003 | **Hikaru** | win 🥇 | 27/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6k1/4q3/8/5BpK/6P1/8 w - -">Link</a> |
+| **Hikaru** | Firouzja2003 | win 🥇 | 27/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1b1r/pp2nQpk/2nBp2p/1N6/3p2PN/2P5/PP3P1P/R3KB1R b KQ g3">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
