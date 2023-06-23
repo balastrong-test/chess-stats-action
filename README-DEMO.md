@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| spaski2004 | **Hikaru** | win 🥇 | 21/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqr1kb/pp5p/5pp1/1Pp1p3/4N3/3P2P1/P2BnPBP/1RQ2RK1 w - -">Link</a> |
-| **Hikaru** | spaski2004 | win 🥇 | 21/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2qk1/1R4p1/7p/4pN2/6Q1/2n1P2P/5PP1/6K1 b - -">Link</a> |
-| spaski2004 | **Hikaru** | win 🥇 | 21/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/5pb1/3p2p1/3P4/N1P1R1P1/5nq1/6B1/3Q2K1 w - -">Link</a> |
-| **Hikaru** | alexrustemov | win 🥇 | 21/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/k3ppbp/4b1p1/2Pp4/3P4/4P3/3B1PPP/1R4K1 b - -">Link</a> |
-| alexrustemov | **Hikaru** | win 🥇 | 21/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3r1/pp2q3/2np1N2/2p1pb1p/2P5/1PPnBPr1/P2Q2BK/R5R1 w - -">Link</a> |
-| **Hikaru** | alexrustemov | win 🥇 | 21/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1r2/1p1b1pkp/p3p1p1/2Nn4/2P5/B7/PP1QBPPP/R2R2K1 b - -">Link</a> |
-| alexrustemov | **Hikaru** | win 🥇 | 21/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/b4pp1/p7/3Q4/1pN5/1P5P/P4q2/5K2 w - -">Link</a> |
-| **Hikaru** | alexrustemov | win 🥇 | 21/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q2rnk/pp1n3p/3r1p2/PPpNpP1B/2P1P2P/6Q1/7K/R5R1 b - -">Link</a> |
-| Gordima | **Hikaru** | win 🥇 | 21/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1p/R5pb/1p2k3/8/2p5/5PP1/6K1 w - -">Link</a> |
-| **Hikaru** | Gordima | win 🥇 | 21/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3R2k1/4p1p1/4N1P1/5K2/8/r7 b - -">Link</a> |
+| **Hikaru** | 0gZPanda | win 🥇 | 22/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3k4/5N2/2PK4/6p1/8/8 b - -">Link</a> |
+| 0gZPanda | **Hikaru** | win 🥇 | 22/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6p1/p1n2p1p/P2p1P1P/1PpB2P1/1kP1K3/8 w - -">Link</a> |
+| **Hikaru** | 0gZPanda | win 🥇 | 22/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Qbk1/5p1p/6pB/8/2p1B3/5PK1/3pq1PP/8 b - -">Link</a> |
+| 0gZPanda | **Hikaru** | win 🥇 | 22/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3b4/5k2/q3p1pn/3pPp1p/2nP1P1P/2P1B1P1/1RQ1BK2/r7 w - -">Link</a> |
+| **Hikaru** | 0gZPanda | repetition ⏸️ | 22/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/8/8/ppk1K3/4N3/Pn3PPP/8 b - -">Link</a> |
+| 0gZPanda | **Hikaru** | win 🥇 | 22/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5n2/p1q3pQ/1p2B2p/2p4P/P1Pp2PB/1P4K1/8 w - -">Link</a> |
+| **Hikaru** | 0gZPanda | win 🥇 | 22/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3KP3/2p5/1n6/7k/8/8/8 b - -">Link</a> |
+| 0gZPanda | **Hikaru** | repetition ⏸️ | 22/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p3rk/6p1/4R2p/4Q2P/1q6/5PK1/8 b - -">Link</a> |
+| **Hikaru** | 0gZPanda | checkmated ❌ | 22/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/PQ6/7k/4p2p/1pp5/3p4/1P2n2R/5Kq1 w - -">Link</a> |
+| 0gZPanda | **Hikaru** | win 🥇 | 22/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k5r/p2r2p1/P2Pp1Q1/1p2Pn2/2q5/2N4p/1P3PP1/4R1K1 w - -">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
