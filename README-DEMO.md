@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Hikaru** | 0gZPanda | win 🥇 | 23/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr3/1b4kp/5qp1/4pp2/2B5/pPBN2Q1/P1P3PP/5R1K b - -">Link</a> |
-| 0gZPanda | **Hikaru** | win 🥇 | 23/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/PB4R1/4p3/1P3p2/5np1/2P3k1/r7/6K1 w - -">Link</a> |
-| **Hikaru** | 0gZPanda | resigned ❌ | 23/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4kp2/6p1/4P2p/P4P1P/6P1/1rB3K1/8 w - -">Link</a> |
-| 0gZPanda | **Hikaru** | win 🥇 | 23/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=q2r2k1/5pp1/4p2p/p1p1n2P/P1R5/1P1nBNP1/5PK1/Q7 w - -">Link</a> |
-| **Hikaru** | 0gZPanda | win 🥇 | 23/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1p3p1p/1P4p1/Q7/5R2/1P2P1PP/Pq3P1K/8 b - -">Link</a> |
-| 0gZPanda | **Hikaru** | win 🥇 | 23/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/1p5p/2p5/5pp1/pPb5/P1P2B2/4KPnP/3R1N2 w - -">Link</a> |
-| Twitch_ElhamBlitz05 | **Hikaru** | win 🥇 | 23/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3Pkp2/1bB3p1/p3Bb1p/Pp3P1P/6P1/3K4/8 w - -">Link</a> |
-| **Hikaru** | Twitch_ElhamBlitz05 | win 🥇 | 23/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p3r2k/1p2n1pq/4R3/8/PBPP4/1P3PQ1/4R1K1 b - -">Link</a> |
-| Twitch_ElhamBlitz05 | **Hikaru** | win 🥇 | 23/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/5p2/3b1k2/3P3B/7P/1p6/P1R2PP1/6K1 w - -">Link</a> |
-| **Hikaru** | Twitch_ElhamBlitz05 | resigned ❌ | 23/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p1np2pp/1p2p3/4P2r/3P4/3Q1pPq/PP1R1P1P/4NRK1 w - -">Link</a> |
+| **Hikaru** | NikaVolkov | repetition ⏸️ | 24/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6k1/8/1r2NKP1/8/8/8 b - -">Link</a> |
+| TrenerChos | **Hikaru** | win 🥇 | 24/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/6pp/p7/1b5P/p1nK2P1/5P2/8 w - -">Link</a> |
+| **Hikaru** | Zhigalko_Sergei | resigned ❌ | 24/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b1r/pp2pppp/2n5/8/1np5/P1Pq1N2/1P1N1PPP/RKBQ3R w - -">Link</a> |
+| **Hikaru** | stollenmonster | win 🥇 | 24/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3BQ2k/p5bp/6p1/1p6/3p4/2P2P2/1q5P/R5K1 b - -">Link</a> |
+| penguingm1 | **Hikaru** | agreed ⏸️ | 24/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/pp2qpp1/1bp3p1/8/2Q1P3/3r1NP1/PP2RPKP/4R3 b - -">Link</a> |
+| **Hikaru** | WCM-Mexicana | win 🥇 | 24/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b1kbqr/ppN1nNp1/2n1P2p/3p1p2/3P1B2/8/PPP1Q1PP/2KR1B1R b - -">Link</a> |
+| kleinebeer98 | **Hikaru** | win 🥇 | 24/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/K5p1/7p/6p1/4n3/3kp1NP/P5P1/8 w - -">Link</a> |
+| AMB_Chess | **Hikaru** | win 🥇 | 24/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/p3bbpp/Bq3n2/4N3/2p5/2P3N1/PP2Q1PP/R1B3K1 w - -">Link</a> |
+| **Hikaru** | FlemingA | win 🥇 | 24/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/2K5/1pQ5/2k5 b - -">Link</a> |
+| Salem-AR | **Hikaru** | resigned ❌ | 24/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6q1/1p2Qp1k/2p2Pp1/6P1/1P6/p5P1/2r2PK1/5R2 b - -">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
