@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| BardArtem | **Hikaru** | stalemate ⏸️ | 21/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7k/5p2/6p1/5nP1/5PK1/4r3 w - -">Link</a> |
-| gshwbedhkhd | **Hikaru** | win 🥇 | 21/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/2P2p1p/4p3/8/5PPK/7P/5q2 w - -">Link</a> |
-| **Hikaru** | Kirill_Klukin | repetition ⏸️ | 21/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/1Q4p1/2p4p/P7/3P3P/6PK/4q3 b - -">Link</a> |
-| **Hikaru** | NovozhilovSemen | win 🥇 | 21/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/4k1Q1/4P3/3K4/p2P4/1p6/8/5r2 b - -">Link</a> |
-| Larina_Maria | **Hikaru** | win 🥇 | 21/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1r3pkp/6p1/2p5/1P6/3R1P1P/1PB2KP1/8 w - -">Link</a> |
-| DanielNaroditsky | **Hikaru** | win 🥇 | 21/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/5p1p/p3p1p1/1bPp4/1p6/1B1R2Q1/Pq3PPP/5R1K w - -">Link</a> |
-| **Hikaru** | gshwbedhkhd | win 🥇 | 21/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/8/2P3pk/3r4/8/2P1B3/1PK3P1/3R4 b - -">Link</a> |
-| AsselLesbekova | **Hikaru** | win 🥇 | 21/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/6p1/6r1/1p6/8/1R5R/6rK w - -">Link</a> |
-| **Hikaru** | splendidkid | win 🥇 | 21/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/1R3pbp/4q1p1/p1p1Pp2/P1P2P2/3P4/2P1Q1PP/1R4K1 b - -">Link</a> |
-| Gravity_Chess | **Hikaru** | win 🥇 | 21/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/p7/2P5/5p2/2Rp1b2/P2P1B1p/5r1P/7K w - -">Link</a> |
+| vladislavkovalev | **Hikaru** | win 🥇 | 31/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1p/3N1Ppk/p2b4/2p5/3n2P1/P6K/5R2 w - -">Link</a> |
+| **Hikaru** | mitrabhaa | win 🥇 | 31/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3r2k1/p2P2p1/2p2p1p/PbK4P/4P1P1/5P2/1R1R4 b - -">Link</a> |
+| MITerryble | **Hikaru** | win 🥇 | 31/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2p2kp1/pp6/P2PKP2/2P2Bnr/8/5R2 w - -">Link</a> |
+| **Hikaru** | LiemLe | 50move  | 31/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/R2nk3/8/3r4/5K2/8 w - -">Link</a> |
+| frederiksvane | **Hikaru** | win 🥇 | 31/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/1kp5/2bp4/p6P/2Pp4/3P4/4K3/1r6 b - -">Link</a> |
+| **Hikaru** | vi_pranav | resigned ❌ | 31/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/2PK4/1P1Qq3/5k2/5n2/P1r5/8 w - -">Link</a> |
+| **Hikaru** | Fandorine | win 🥇 | 31/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/5pp1/q2Rn3/1B2P2p/5P1P/6P1/3Q3K/1R6 b - -">Link</a> |
+| TigrVShlyape | **Hikaru** | win 🥇 | 31/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1r5/1p3k1p/1n1p1p2/3P2p1/R1P3P1/3NrPP1/3R2K1 w - -">Link</a> |
+| **Hikaru** | Nikolakis2014 | win 🥇 | 31/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R3k1/5p1p/3B1bp1/1r2n3/7N/4P3/5PPP/6K1 b - -">Link</a> |
+| djano | **Hikaru** | win 🥇 | 31/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rq3k1/5pp1/p3p2p/3pP3/3P4/2PB1NB1/1n3PPP/3R2K1 w - -">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
