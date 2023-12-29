@@ -7,6 +7,8 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
+| **Hikaru** | mbojan | win 🥇 | 28/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R2R4/1p4k1/5p2/4pK2/1r1p4/8/8 b - -">Link</a> |
+| mbojan | **Hikaru** | win 🥇 | 28/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/R2R2b1/6pp/4N3/8/6P1/5rKP/8 w - -">Link</a> |
 | **Hikaru** | tristanof_blitzeur | win 🥇 | 27/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4Q1kp/4Ppp1/2p5/5B2/Pq1P3K/1r5P/8 b - -">Link</a> |
 | Byniolus | **Hikaru** | win 🥇 | 27/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5R2/6P1/2k3NK/8/8/8/6r1 w - -">Link</a> |
 | dirtyflaggerkeval | **Hikaru** | win 🥇 | 27/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/p3b1k1/P2n3p/1PK2p1B/8/8 w - -">Link</a> |
@@ -15,8 +17,6 @@ This file can be your README.md that gets automatically updated.
 | 10seconds3kchallengepls | **Hikaru** | win 🥇 | 27/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/3n1p1p/4p1pP/p2pP1b1/P1qP1NP1/8/2NQ1P2/1rBK3R w - -">Link</a> |
 | iGiveUpTomorrow | **Hikaru** | win 🥇 | 27/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/p5k1/4b1P1/P5P1/3R3K/3Br3/8 w - -">Link</a> |
 | **Hikaru** | MITerryble | win 🥇 | 27/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2r2/pp3pkq/5R1p/2P1p1p1/1P2Rn2/4N3/PBQ2PPP/6K1 b - -">Link</a> |
-| Aryan_Tamadon | **Hikaru** | win 🥇 | 27/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1r3k1/pp3pb1/6pp/1P1bp3/1B5P/P3p1Pq/1Q3P2/1NR2RK1 w - -">Link</a> |
-| GMKrikor | **Hikaru** | win 🥇 | 27/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p4k1/8/7p/3n3P/PpNNr1PK/8/8 w - -">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
