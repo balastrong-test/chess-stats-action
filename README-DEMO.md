@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| Snowflake | **Hikaru** | win 🥇 | 17/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2R5/6p1/6k1/6r1/r7/4K3 b - -">Link</a> |
-| **Hikaru** | Snowflake | win 🥇 | 17/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5pQp/6pP/3r4/1PP1R3/3P2K1/8/8 b - -">Link</a> |
-| Snowflake | **Hikaru** | win 🥇 | 17/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p2/p5p1/8/8/4P1Pp/P4P1P/3r2K1 w - -">Link</a> |
-| **Hikaru** | Snowflake | win 🥇 | 17/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/8/6pk/q6p/2p4P/2P3P1/5P1K/8 b - -">Link</a> |
-| Snowflake | **Hikaru** | win 🥇 | 16/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q1k2r/4pp1p/3pn1p1/3bP2P/6P1/2p1QP2/PPP5/1K4NR w k -">Link</a> |
-| **Hikaru** | Snowflake | win 🥇 | 16/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1q2r1k1/pp3pp1/8/3Qn1PP/8/1PP3N1/2PB1P2/4R1K1 b - -">Link</a> |
-| Snowflake | **Hikaru** | win 🥇 | 16/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1r3k1/1p3pbp/2PR2p1/p5B1/2P1n3/8/P3BPPP/2R3K1 b - -">Link</a> |
-| **Hikaru** | Snowflake | win 🥇 | 16/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/3q3k/1pp1r1p1/p1p2p2/P7/1PBP1b1P/2P2P2/2R3K1 b - -">Link</a> |
-| Snowflake | **Hikaru** | win 🥇 | 16/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/Rp3pk1/BP1p1qp1/1R1n3p/p2r4/6P1/5K1P/Q7 w - -">Link</a> |
-| **Hikaru** | Snowflake | win 🥇 | 16/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5Bp1/8/2k2K2/5PP1/8/8 b - -">Link</a> |
+| ChessBrainiacOnTwitch | **Hikaru** | resigned ❌ | 17/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1P6/4R3/8/5k1p/PK6/5r2/6Q1 b - -">Link</a> |
+| **Hikaru** | ChessBrainiacOnTwitch | win 🥇 | 17/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/1prb1pkP/1q2p1p1/p2pP1Q1/3N4/1PPR1P2/P7/KR6 b - -">Link</a> |
+| ChessBrainiacOnTwitch | **Hikaru** | win 🥇 | 17/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/bP3p2/2p1p3/3pP3/5P2/1bP5/pB4K1/8 w - -">Link</a> |
+| **Hikaru** | ChessBrainiacOnTwitch | win 🥇 | 17/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5kp1/2N2p1p/1n1R3P/8/1P3P2/1KP3r1/8 b - -">Link</a> |
+| ChessBrainiacOnTwitch | **Hikaru** | win 🥇 | 17/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2r5/6pK/8/1pk5/8 w - -">Link</a> |
+| **Hikaru** | ChessBrainiacOnTwitch | win 🥇 | 17/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1p/Rn1r3k/6p1/P5P1/1P2PK1B/7P/8 b - a3">Link</a> |
+| ChessBrainiacOnTwitch | **Hikaru** | win 🥇 | 17/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/5k1p/PB6/5p2/4p3/4K3/r7/6b1 w - -">Link</a> |
+| **Hikaru** | ChessBrainiacOnTwitch | win 🥇 | 17/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/5b2/4q3/P5Q1/2P1k3/1P6/1K2R3 b - -">Link</a> |
+| **Hikaru** | temus_galaktionov | win 🥇 | 17/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1k4/6R1/b2p2p1/p2B4/P1p1PK2/1r3P2/1P4P1/2R5 b - -">Link</a> |
+| temus_galaktionov | **Hikaru** | win 🥇 | 17/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/4Q3/1r3BK1/8/8/8/2k5/8 w - -">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
