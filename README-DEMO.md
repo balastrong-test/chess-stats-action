@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Hikaru** | NikoTheodorou | win 🥇 | 21/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/7R/3pK3/p2P1P2/8/1p6/8/8 w - -">Link</a> |
-| NikoTheodorou | **Hikaru** | win 🥇 | 21/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1Pk5/2p1K1p1/2Pn1P1p/p5P1/B7/8 w - -">Link</a> |
-| **Hikaru** | NikoTheodorou | win 🥇 | 21/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2k2/5p2/1rNR2p1/pB6/P1p4P/5P2/5KP1/8 b - -">Link</a> |
-| NikoTheodorou | **Hikaru** | win 🥇 | 21/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6b1/8/2n5/pk6/N7/2K5 w - -">Link</a> |
-| **Hikaru** | TenisMaster | win 🥇 | 21/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3k4/Rp4p1/2pK4/8/P3B3/r7 b - -">Link</a> |
-| BogdanDeac | **Hikaru** | agreed ⏸️ | 20/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/6pk/8/8/4R3/5P2/5K2/8 b - -">Link</a> |
-| **Hikaru** | Msb2 | insufficient ⏸️ | 20/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/6N1/8/6Kn/8/8/8 w - -">Link</a> |
-| jefferyx | **Hikaru** | win 🥇 | 20/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p7/P1kpB1p1/6P1/5P1p/5K2/3b4 w - -">Link</a> |
-| **Hikaru** | BilodeauA | win 🥇 | 20/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5nR1/1p2k1P1/p3p3/4Pr2/3prP2/8/PP1B4/3K3R b - -">Link</a> |
-| Shtembuliak | **Hikaru** | win 🥇 | 20/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/5p2/6p1/1nnP3p/8/p3K1PP/B1N2P2/8 w - -">Link</a> |
+| Oleksandr_Bortnyk | **Hikaru** | win 🥇 | 21/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/8/ppq2r2/3pQ3/PP6/1KP5/8 w - -">Link</a> |
+| Witik | **Hikaru** | win 🥇 | 21/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R3bpk1/1p5p/1P3RpP/P4r2/5K2/5P2/8 w - -">Link</a> |
+| blitzking1729 | **Hikaru** | win 🥇 | 21/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/7n/3r3P/p1p5/P1k4K/8/8/8 w - -">Link</a> |
+| **Hikaru** | Jospem | win 🥇 | 21/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/1p1n1pp1/2n1p2p/1BPpP3/3P4/N1P2N2/P4PPP/R1BQ1RK1 b kq -">Link</a> |
+| **Hikaru** | WindWhistler11 | win 🥇 | 21/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1r1k/ppp1n2p/3pN1p1/6P1/2PQ1P1n/1PN1B3/P4P1P/R5K1 b - -">Link</a> |
+| **Hikaru** | HansOnTwitch | repetition ⏸️ | 21/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p1kb3/2np4/3N4/4P3/1P1R4/KB6/7r b - -">Link</a> |
+| CMmauricio | **Hikaru** | win 🥇 | 21/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/6b1/8/1p6/6Q1/PP6/3qp1PP/4R2K w - -">Link</a> |
+| **Hikaru** | Sychev_on_YouTube | win 🥇 | 21/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/4kr1p/pPp1Pp1B/5P2/R5P1/8/4K3/8 b - -">Link</a> |
+| DonkyDonkyDonkey | **Hikaru** | resigned ❌ | 21/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3r2p1/4p1p1/4P1k1/5Q2/6P1/5PK1/8 b - -">Link</a> |
+| **Hikaru** | blitzking1729 | win 🥇 | 21/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5R2/5k2/4pr2/1PB4P/2P3P1/4Kbb1/8 b - -">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
