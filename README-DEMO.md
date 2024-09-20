@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
+| **Hikaru** | vi_pranav | win 🥇 | 19/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4R1p1/P1k2p1p/5P2/2Pn4/4p1PP/5r2/1KR5 b - -">Link</a> |
+| vi_pranav | **Hikaru** | resigned ❌ | 19/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/5p2/3Pn3/1p2P2N/8/4K3/8/5R2 b - -">Link</a> |
+| **Hikaru** | vi_pranav | win 🥇 | 19/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/k7/1Q4P1/1pP5/p6P/P7/1KP3rr/8 b - -">Link</a> |
+| vi_pranav | **Hikaru** | win 🥇 | 19/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/kpR5/p2N2p1/2N2p1p/4p2P/8/2r5/1r3BK1 w - -">Link</a> |
+| **Hikaru** | vi_pranav | win 🥇 | 19/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/5pp1/1bQN2p1/4pqPn/1P5P/P3PB2/1K3P2/3R3R b - -">Link</a> |
 | **Hikaru** | mitrabhaa | timevsinsufficient ⏸️ | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k2K1/8/q7/8/8/8/8 b - -">Link</a> |
 | ArtemkaTOP64 | **Hikaru** | win 🥇 | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/P7/8/3k4/3p4/2nK4/4q3 w - -">Link</a> |
 | Jospem | **Hikaru** | win 🥇 | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1k3r/4p3/1P2R3/3P2r1/4B3/P6K/8 w - -">Link</a> |
 | **Hikaru** | BadRony | win 🥇 | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/4n3/p6p/1p6/5q2/6RQ/P5PK/8 b - -">Link</a> |
 | The_Machine04 | **Hikaru** | agreed ⏸️ | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3b4/1Bp5/1kP3K1/8/8/8 b - -">Link</a> |
-| **Hikaru** | jcibarra | win 🥇 | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk2r/1b2b1pp/p1npp3/1p6/4P1Q1/1NNB4/PPP3PP/R1B2RK1 b kq -">Link</a> |
-| **Hikaru** | Oleksandr_Bortnyk | win 🥇 | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k1p1/P6p/1Bp1P3/4n1K1/1PP5/8/8 b - -">Link</a> |
-| Hyoukami | **Hikaru** | win 🥇 | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr1k1/bppq1pp1/p7/6Np/1P1B2bP/P2Q2P1/2n2PB1/R3K2R w KQ -">Link</a> |
-| **Hikaru** | rojitto | win 🥇 | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4n3/5kp1/4npBp/7P/1B2P3/6P1/5PK1/8 b - -">Link</a> |
-| Fandorine | **Hikaru** | win 🥇 | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1P5p/3k3P/4b3/3p4/1K1Q4/8 w - -">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
