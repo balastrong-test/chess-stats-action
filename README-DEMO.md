@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| HalfIsCrayfish | **Hikaru** | win 🥇 | 8/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/8/3R1B2/3p2p1/bP2k3/P1K5/2r5 w - -">Link</a> |
-| **Hikaru** | ELPRIMO0O0 | win 🥇 | 8/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kbR1/p7/4P3/2pN1p2/P2p4/3P3P/1r4K1/8 w - -">Link</a> |
-| **Hikaru** | ReadySkate | win 🥇 | 8/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/R7/7P/6K1/6N1/8/6r1 b - -">Link</a> |
-| ReadySkate | **Hikaru** | checkmated ❌ | 8/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/5p1p/p3pk2/3b2Q1/6P1/5q2/5P1K/8 b - -">Link</a> |
-| **Hikaru** | ReadySkate | win 🥇 | 8/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rR5/1P1K4/4r2p/2P2Rp1/8/7P/6k1/8 b - -">Link</a> |
-| Blackmind96 | **Hikaru** | win 🥇 | 8/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2b5/2Pn1k2/1B2p1pp/4Kp2/4PP2/5P2/6B1 w - -">Link</a> |
-| **Hikaru** | Blackmind96 | win 🥇 | 8/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/8/5K2/8/B7/8/1B6/8 b - -">Link</a> |
-| Oleksandr_Bortnyk | **Hikaru** | repetition ⏸️ | 1/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/pR6/6p1/4r1Pr/P5K1/1PP2R2/8 w - -">Link</a> |
-| **Hikaru** | ChristopherYoo | win 🥇 | 1/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/p3p3/4b2B/7P/6PK/P7/5Q2 b - -">Link</a> |
-| DanielNaroditsky | **Hikaru** | repetition ⏸️ | 1/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q2k1/bp5p/p1ppn1p1/4pr2/4N1Q1/P1PPB2P/1P3PP1/R4RK1 w - -">Link</a> |
+| **Hikaru** | MagnusCarlsen | repetition ⏸️ | 15/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/7p/5N1P/5KP1/8/8/3b4 w - -">Link</a> |
+| **Hikaru** | Polish_fighter3000 | win 🥇 | 15/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/bP2k3/2K5/4pBN1/6P1/8/8/8 b - -">Link</a> |
+| nihalsarin | **Hikaru** | repetition ⏸️ | 15/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/r1bb1pp1/p1B1p2p/P3P3/3N4/4P1P1/1P5P/R2R2K1 b - -">Link</a> |
+| **Hikaru** | DanielNaroditsky | win 🥇 | 15/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k4/2n5/pBpKP1P1/P7/1P6/8/8 b - -">Link</a> |
+| FairChess_on_YouTube | **Hikaru** | win 🥇 | 15/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr3/1p6/p4pk1/P1pp3p/3P4/6n1/1P2R1P1/3BK2R w - -">Link</a> |
+| **Hikaru** | Oleksandr_Bortnyk | repetition ⏸️ | 15/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/6p1/4qk2/8/7Q/7P/1K6 b - -">Link</a> |
+| OparinGrigoriy | **Hikaru** | win 🥇 | 15/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/8/3kpp1p/4n2P/4KNP1/8/8 w - -">Link</a> |
+| **Hikaru** | Zhigalko_Sergei | win 🥇 | 15/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=q4k1Q/7p/3n2pN/1pp2bB1/p1P5/1P4PP/P3r3/5RK1 b - -">Link</a> |
+| Marcan2b | **Hikaru** | win 🥇 | 15/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/8/4n3/8/pP6/P1k1q3/8/6K1 w - -">Link</a> |
+| **Hikaru** | Keaton87 | win 🥇 | 15/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3b1p1/7k/P4N2/R7/6PK/1r3P2/8 b - -">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
