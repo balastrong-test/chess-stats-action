@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Hikaru** | A4RookA3 | win 🥇 | 2/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1k1r/pb3p1p/1p2p1p1/1B2Q3/4N3/4p3/PPP3PP/R4RK1 b - -">Link</a> |
-| Kingswhite2008 | **Hikaru** | win 🥇 | 2/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/7p/6pP/6r1/8/5k1K w - -">Link</a> |
-| **Hikaru** | Msb2 | win 🥇 | 2/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rbq1r1k/p3b1pB/1n2p1N1/1p1pP3/1n1P4/1P3N2/P1Q3PP/R1B2RK1 b - -">Link</a> |
-| anasta10 | **Hikaru** | win 🥇 | 2/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1kr5/1pp1p3/6p1/1N1P4/2P2P2/QP2q3/P1K1p2r/4R3 w - -">Link</a> |
-| **Hikaru** | Whiteking2009 | win 🥇 | 2/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1k2/3n1Qbp/2p2np1/1p6/p6P/P7/BPPP1PP1/R1B1K2R b KQ -">Link</a> |
-| antonusss | **Hikaru** | win 🥇 | 2/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/7p/p3p1p1/1p1pq3/6P1/2PB1Q1P/P1P5/1K6 w - -">Link</a> |
-| **Hikaru** | wonderfultime | win 🥇 | 2/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k4n1/1p6/1b2Rp1p/p6P/5P2/P7/1P4P1/1KB5 b - -">Link</a> |
-| Verony64 | **Hikaru** | win 🥇 | 2/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/pp6/2np1P2/2p1p3/4Pb2/2Pb4/PP3R2/R3K2r w - -">Link</a> |
-| **Hikaru** | promising_talent | win 🥇 | 2/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bR3r/p3kpbp/2p2npn/2B1p1N1/2p1P3/2N2P2/PPP3PP/2KR4 b - -">Link</a> |
-| NajdorfPlayerc5 | **Hikaru** | win 🥇 | 2/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4nk2/1q6/6p1/1P6/1KPR4/8 w - -">Link</a> |
+| Cayse | **Hikaru** | win 🥇 | 6/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k3r2/p1q1r1p1/2p3P1/1p1n2Q1/4R3/1P1P1n2/PKP2P2/4R3 w - -">Link</a> |
+| **Hikaru** | Andreikka | win 🥇 | 5/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p2R4/2nRr1pk/1p3P2/7p/1P2NP1P/PKP3P1/8 b - -">Link</a> |
+| GMBenjaminBok | **Hikaru** | resigned ❌ | 5/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/8/1p1PK3/1N6/p1p1P3/7P/8 b - -">Link</a> |
+| **Hikaru** | FabianoCaruana | win 🥇 | 5/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7R/5k2/p7/P3n1N1/1P4PP/3r1PK1/8 b - -">Link</a> |
+| jefferyx | **Hikaru** | win 🥇 | 5/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k4pp/p7/1p3Pp1/1N1K4/8/P6n/8 w - -">Link</a> |
+| **Hikaru** | Polish_fighter3000 | win 🥇 | 5/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/p1r3kp/3N1pp1/8/2N5/1P2R2P/P4P2/6K1 b - -">Link</a> |
+| DrVelja | **Hikaru** | win 🥇 | 5/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6p1/3k1p1p/r4P1P/3K2P1/3B4/8 w - -">Link</a> |
+| **Hikaru** | mbojan | win 🥇 | 5/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1p2bB1p/p5p1/4P3/4n3/BP4PP/P6K/3R4 b - -">Link</a> |
+| IlanSchnaider | **Hikaru** | win 🥇 | 5/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/7p/p3N3/8/8/r3P3/1p4K1/8 w - -">Link</a> |
+| **Hikaru** | subham777 | win 🥇 | 5/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7P/2p5/8/3k4/8/2K5 b - -">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
