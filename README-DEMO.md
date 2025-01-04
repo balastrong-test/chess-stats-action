@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| Vaathi_Coming | **Hikaru** | resigned ❌ | 31/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p4r2/1p4pB/4b3/2q2n1Q/8/6PP/3R1R1K w - -">Link</a> |
-| **Hikaru** | Shankland | resigned ❌ | 31/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/3K2k1/8/2q5 w - -">Link</a> |
-| Jospem | **Hikaru** | repetition ⏸️ | 31/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R3/5rp1/3P2k1/ppB5/2n4P/6P1/5P2/6K1 w - -">Link</a> |
-| dretch | **Hikaru** | win 🥇 | 31/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1r3pk1/2R5/r2p4/P2P1P1p/1PR4P/3N2p1/3Kn3 w - -">Link</a> |
-| **Hikaru** | ChristopherYoo | win 🥇 | 31/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/2p2k1p/p1b1qR2/8/1P2P3/P3QP2/5KP1/B7 b - -">Link</a> |
-| Chessgodisback2008 | **Hikaru** | repetition ⏸️ | 31/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4r3/1p1p4/p4pP1/P1P2P1k/1P3B1p/5K1P/8 w - -">Link</a> |
-| **Hikaru** | Vladimir_Zakhartsov | win 🥇 | 31/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp5p/6pk/3P1p2/4rp2/1PQ2NqP/P1P3R1/R6K b - -">Link</a> |
-| Carnivoras | **Hikaru** | win 🥇 | 31/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6P1/2p5/1k6/5P2/6K1/8/1q6 w - -">Link</a> |
-| **Hikaru** | Budisavljevic | win 🥇 | 31/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1r3pp1/1P2p2p/P7/1n1B4/8/3P2PP/2R3K1 b - -">Link</a> |
-| Artemiki | **Hikaru** | win 🥇 | 31/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p1P2k/2Qp4/Pp6/1P6/4p3/2P5/q1K5 w - -">Link</a> |
+| MolecularChemist | **Hikaru** | win 🥇 | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1K6/1B6/P4k2/1R3P2/7p/2r3bP/8/8 w - -">Link</a> |
+| **Hikaru** | MolecularChemist | win 🥇 | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3qr2/1p1n2kp/p7/3Q1bP1/4p2P/1PP1B3/P5B1/4RRK1 b - -">Link</a> |
+| MolecularChemist | **Hikaru** | repetition ⏸️ | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/6p1/1r5p/7P/5RP1/5PK1/8 b - -">Link</a> |
+| **Hikaru** | MolecularChemist | win 🥇 | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/1pp2p2/p2p1Pp1/4r1P1/1R6/1P1P3p/2P2K1P/5R2 b - -">Link</a> |
+| MolecularChemist | **Hikaru** | resigned ❌ | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3nk2r/pp6/5P2/2Q1p2r/2Pn4/6pP/PB4B1/3R1R1K b - -">Link</a> |
+| **Hikaru** | MolecularChemist | resigned ❌ | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p2/p3n3/6pp/8/1P1R2PP/1r6/6K1 b - -">Link</a> |
+| MolecularChemist | **Hikaru** | win 🥇 | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4Q3/1k2p3/1pq5/7p/5P1P/5K2/8 w - -">Link</a> |
+| **Hikaru** | MolecularChemist | win 🥇 | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/1R3p2/1P2r1p1/5p1p/3K1P1P/6P1/5P2/8 b - -">Link</a> |
+| MolecularChemist | **Hikaru** | win 🥇 | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1R6/p5p1/P4kP1/5p2/r7/5PK1/8 w - -">Link</a> |
+| **Hikaru** | MolecularChemist | win 🥇 | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5b2/2p3kP/1pPp3B/pP1K4/P5P1/8/8 b - -">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
