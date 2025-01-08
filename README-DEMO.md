@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Hikaru** | vi_pranav | win 🥇 | 6/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rq1rk1/5p2/2n1N1pb/pp1Np2P/4P1p1/1PP2P2/PB1Q4/1K1R3R b - -">Link</a> |
-| vi_pranav | **Hikaru** | win 🥇 | 6/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pk1/3p2p1/1q1Pp2p/4Pb2/7P/4RPP1/1r3QNK w - -">Link</a> |
-| **Hikaru** | vi_pranav | resigned ❌ | 6/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1kp3P1/1pbq4/5Q2/8/p2P4/5N2/6K1 b - -">Link</a> |
-| vi_pranav | **Hikaru** | win 🥇 | 6/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pb2kpp1/4p3/2p5/BP3q2/b5NP/5P1K/5Q2 w - -">Link</a> |
-| **Hikaru** | Mykola-Bortnyk | win 🥇 | 5/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/4K3/5R2/6k1/8 b - -">Link</a> |
-| Mykola-Bortnyk | **Hikaru** | win 🥇 | 5/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/1p1B4/3P1k1B/2P1nP2/r7/3K4/8 w - -">Link</a> |
-| **Hikaru** | Mykola-Bortnyk | win 🥇 | 5/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6k/5Q2/qpP5/8/bP3PPb/P3K2P/R7 b - -">Link</a> |
-| Mykola-Bortnyk | **Hikaru** | win 🥇 | 5/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/5P2/1P4P1/6N1/2k5/4p3/2K5 w - -">Link</a> |
-| **Hikaru** | Annawel | win 🥇 | 5/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/1P3p2/2p5/2b2qk1/8/1PB4R/P4rP1/3R3K b - -">Link</a> |
-| **Hikaru** | midoriyarachelzaneL34 | win 🥇 | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3B4/5k2/7p/8/8/1p3p1P/1P1K4/8 b - -">Link</a> |
+| **Hikaru** | rezamahdavi2008 | win 🥇 | 8/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6p1/1R6/8/P7/1P4r1/1K6/8 b - -">Link</a> |
+| rezamahdavi2008 | **Hikaru** | win 🥇 | 8/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k2p2/2q1pNp1/2p1P3/2P2P1p/2Q1p2P/r2r2PK/6R1 w - -">Link</a> |
+| **Hikaru** | rezamahdavi2008 | win 🥇 | 8/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/kr6/8/P1R5/KP6/8 b - -">Link</a> |
+| rezamahdavi2008 | **Hikaru** | win 🥇 | 8/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/p1r4p/1p1pq1pB/1P1R4/3QPpn1/8/P5PK/5B2 w - -">Link</a> |
+| **Hikaru** | rezamahdavi2008 | win 🥇 | 8/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2b1k/R5p1/6Q1/4qR1p/2p1P3/6P1/5P1P/6K1 b - -">Link</a> |
+| moro182 | **Hikaru** | resigned ❌ | 8/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1n1/2pqp2r/pp4n1/3P1RQ1/2P1N1Pp/8/PP5P/5RK1 b - -">Link</a> |
+| **Hikaru** | Hesham-A | repetition ⏸️ | 7/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/p2k1Q1p/3b2p1/4B3/4p1P1/1P2p2K/P2r3P/8 b - -">Link</a> |
+| AbasovN | **Hikaru** | win 🥇 | 7/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/2Qb1q2/1p1p2pb/3Pp2p/P7/4N2P/1B2BnPN/R6K w - -">Link</a> |
+| **Hikaru** | theblitzchamp | win 🥇 | 7/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5nk1/1P4pb/p1R1p2p/q2pB2P/P2Q4/6P1/6B1/6K1 b - -">Link</a> |
+| amateurchess20 | **Hikaru** | win 🥇 | 7/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p3bkp/1P1q1pp1/2p5/3p4/1r4PP/3Q1PB1/4R1K1 w - -">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
