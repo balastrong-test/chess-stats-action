@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Hikaru** | 0gZPanda | win 🥇 | 28/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/2K5/7R/3rk3 b - - 31 81">Link</a> |
-| 0gZPanda | **Hikaru** | checkmated ❌ | 28/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/5p2/4b1p1/2p3k1/2P2P2/1q2N1P1/8/6K1 b - f3 0 49">Link</a> |
-| **Hikaru** | 0gZPanda | win 🥇 | 28/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5q2/4P1k1/1K6/8/8/8 b - - 1 83">Link</a> |
-| Maitreia | **Hikaru** | win 🥇 | 27/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=q7/2p2p1k/1p1pbnrp/1P2p3/2P1P3/2P1B1P1/4Q1BP/5RK1 w - - 7 37">Link</a> |
-| **Hikaru** | Maitreia | win 🥇 | 27/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2R1p1k/1p4p1/4q2p/P1P4P/1P3P2/5QK1/8 b - - 6 41">Link</a> |
-| Maitreia | **Hikaru** | win 🥇 | 27/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1p3pp1/2p4p/3q1Q2/p2P4/P4NP1/1P2rP1P/6K1 w - - 0 33">Link</a> |
-| **Hikaru** | Maitreia | repetition ⏸️ | 27/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1R4R1/6p1/5p1p/5P1P/6P1/r6r/4K3 b - - 10 80">Link</a> |
-| Maitreia | **Hikaru** | win 🥇 | 27/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4nk/2r5/6R1/4p1BB/4PP2/6P1/1p4K1/8 w - - 2 47">Link</a> |
-| **Hikaru** | Maitreia | win 🥇 | 27/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/rPpk2R1/8/3P3P/3KP3/8/8 b - - 2 46">Link</a> |
-| Maitreia | **Hikaru** | win 🥇 | 27/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/3p2p1/6Pp/P1P1r3/6P1/6NK/8 w - - 0 46">Link</a> |
+| **Hikaru** | MagnusCarlsen | win 🥇 | 28/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2q3pk/8/3p3p/3B2b1/3pP3/pQ4R1/6K1 b - - 6 53">Link</a> |
+| dropstoneDP | **Hikaru** | win 🥇 | 28/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2R3pP/1P1pk1P1/7r/2p2K2/8 w - - 0 56">Link</a> |
+| **Hikaru** | ValentinDragnev | win 🥇 | 28/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2n1P3/Pkp5/2Np4/3P1K2/8/P7/8 b - - 2 53">Link</a> |
+| **Hikaru** | GMBenjaminBok | resigned ❌ | 28/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/ppp5/4p3/3p2Rp/3Pr2n/1NP5/PP2K3/4R3 w - - 1 27">Link</a> |
+| GHANDEEVAM2003 | **Hikaru** | win 🥇 | 28/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1p2p1pp/5p2/5B2/P5P1/5P1P/P3q1K1/2r1N1R1 w - - 0 26">Link</a> |
+| **Hikaru** | Jumbo | win 🥇 | 28/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/pB6/P7/k1R1r3/2K5/8/8 b - - 8 123">Link</a> |
+| SaqoChess_Coach | **Hikaru** | win 🥇 | 28/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1br2k1r/pp2pbpp/5p2/2pP4/5n2/5P2/P4BPP/1q1NQ1KR w kq - 0 16">Link</a> |
+| **Hikaru** | ChristopherYoo | checkmated ❌ | 28/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/pp1k1p2/2n1b3/4K3/2p1P3/5r2/PPP5/5B2 w - - 4 49">Link</a> |
+| BogdanDeac | **Hikaru** | win 🥇 | 28/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p6p/8/8/2PBqbp1/2Pn1N2/P1Q3P1/1K6 w - - 0 32">Link</a> |
+| **Hikaru** | StockholmMissile | win 🥇 | 28/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1r3/3p3q/1Q5p/p7/2R5/2P3P1/PP5P/2K5 b - - 6 40">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
