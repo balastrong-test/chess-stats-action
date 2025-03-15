@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Hikaru** | Miyamoto_Musashi11 | win 🥇 | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b2rk1/5rbp/4p1p1/p1q3N1/3n3Q/P2B4/2PB2PP/3RR2K b - -">Link</a> |
-| Miyamoto_Musashi11 | **Hikaru** | win 🥇 | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/2q2p1p/5P2/p1pQ3p/1p3P2/P6P/1PP3P1/6K1 w - -">Link</a> |
-| xiaotong2008 | **Hikaru** | checkmated ❌ | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/6kq/p4Q1N/6K1/pP6/P7/8/8 b - - 3 56">Link</a> |
-| purpurice | **Hikaru** | win 🥇 | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/7R/4p3/4Pp2/B4nkP/5r2/5K2 w - - 6 50">Link</a> |
-| **Hikaru** | purpurice | win 🥇 | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k6/1P2p3/1P6/3Kp3/4Bp2/5P2/8 b - - 2 53">Link</a> |
-| purpurice | **Hikaru** | win 🥇 | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2p4p/3p1Qb1/3P4/p1Pp3r/P3q3/8/5RK1 w - - 2 34">Link</a> |
-| **Hikaru** | purpurice | win 🥇 | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/4Q1pp/1qp5/2p1p3/4N3/3P3P/pBP3P1/5R1K b - - 0 22">Link</a> |
-| purpurice | **Hikaru** | win 🥇 | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/8/4Q1nk/2bNp3/6p1/5q2/P2R3P/K2R1q2 w - - 0 43">Link</a> |
-| **Hikaru** | purpurice | win 🥇 | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R2Q/p1p2rk1/6p1/3P1n2/5P2/8/P5RK/2q5 b - - 3 44">Link</a> |
-| purpurice | **Hikaru** | win 🥇 | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/5pkp/4p1p1/n1p5/QnB5/4PN2/1q3PPP/2R3K1 w - - 1 25">Link</a> |
+| **Hikaru** | bubeliang | win 🥇 | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/3rbk2/2q1bp2/P1p1p1p1/2P1P2p/R1BP1P1P/2Q3P1/2N2RK1 b - - 2 28">Link</a> |
+| bubeliang | **Hikaru** | win 🥇 | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/1p5p/pq1p1bp1/2pP2N1/2Q5/8/P1P1r1P1/1K1R3R w - - 2 21">Link</a> |
+| **Hikaru** | bubeliang | win 🥇 | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/ppq2pp1/2p4p/2PpPPnb/1P3RP1/8/PBQ3K1/4R3 b - - 2 27">Link</a> |
+| bubeliang | **Hikaru** | win 🥇 | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1P4/2n2pk1/7p/4KP1P/6P1/8/8 w - - 3 43">Link</a> |
+| **Hikaru** | bubeliang | win 🥇 | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n6/1k4p1/2p5/1qPp4/3np2P/P6B/K6Q/1R6 b - - 3 47">Link</a> |
+| bubeliang | **Hikaru** | agreed ⏸️ | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/6p1/5k1p/7P/3pKPP1/8/8 b - - 0 52">Link</a> |
+| **Hikaru** | bubeliang | win 🥇 | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k3/8/r5N1/4PP2/2R1K3/8/8 b - - 0 71">Link</a> |
+| bubeliang | **Hikaru** | win 🥇 | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2r2k1/2p2np1/8/3Q2P1/2NK4/P2R1P2/7q w - - 3 34">Link</a> |
+| **Hikaru** | bubeliang | win 🥇 | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3b4/pp1k2B1/4Q1p1/3P1p1q/4p1n1/P3P1Pr/5P2/2R2NK1 b - - 3 33">Link</a> |
+| bubeliang | **Hikaru** | win 🥇 | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3b4/1Rr2K1k/8/7p/1P6/8/8/8 w - - 1 58">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
