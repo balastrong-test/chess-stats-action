@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Hikaru** | ShadowKing71 | win 🥇 | 16/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p4N2/3n1bp1/q1RB1p1p/1p1P3P/1P2P1P1/P4P2/3R2K1 b - - 2 32">Link</a> |
-| ShadowKing71 | **Hikaru** | win 🥇 | 16/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3R1p2/1p2pkp1/p7/Pr3PK1/8/8/8 w - - 2 58">Link</a> |
-| **Hikaru** | ShadowKing71 | win 🥇 | 16/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4bk1/1ppb1ppn/3p3p/p1nP3N/2P2q2/PPB2N1P/1QB2PP1/4R1K1 b - - 4 22">Link</a> |
-| ShadowKing71 | **Hikaru** | win 🥇 | 16/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/1p2q1p1/p6p/3Q4/2P5/8/P4KPP/4R3 w - - 2 36">Link</a> |
-| **Hikaru** | ShadowKing71 | repetition ⏸️ | 16/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/8/2pN1b2/4n2Q/2Pq1P2/7P/6PK/3n4 w - - 9 46">Link</a> |
-| ShadowKing71 | **Hikaru** | resigned ❌ | 16/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r3r/pp2qp1p/4p3/2P3p1/3bB3/P3B1P1/4QP1P/2R1R1K1 b - - 0 25">Link</a> |
-| **Hikaru** | ShadowKing71 | win 🥇 | 16/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rr1k/1pp3pp/p7/4R3/1P2p1qN/P3P1P1/1Q3P1P/5RK1 b - - 0 24">Link</a> |
-| ShadowKing71 | **Hikaru** | win 🥇 | 16/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5pk/4r1n1/3QNq1p/1P1B4/8/P5P1/6K1 w - - 1 39">Link</a> |
-| **Hikaru** | ShadowKing71 | win 🥇 | 16/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r5r/2pqbk2/4bp2/3np1N1/2N4p/PP1PP2P/1BQ2PP1/R3K2R b KQ - 0 21">Link</a> |
-| ShadowKing71 | **Hikaru** | win 🥇 | 16/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/3r1pp1/4p2p/pp2P3/2n2B2/PRP2qP1/1P6/4Q1K1 w - - 0 40">Link</a> |
+| **Hikaru** | Blackmind96 | win 🥇 | 18/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/5rp1/2P1Q1p1/p2p4/Pp1P2P1/1P2P2P/5q2/1KR5 w - - 1 37">Link</a> |
+| Blackmind96 | **Hikaru** | win 🥇 | 18/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1q3pPp/2n1p3/4n3/1pp5/6P1/1P1rQP1P/R4RK1 w - - 0 34">Link</a> |
+| Javad_29 | **Hikaru** | win 🥇 | 17/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p4p2/2pb1B2/3p2p1/N3p3/1P2P1Pp/P1P2PqP/R3QRK1 w - - 1 23">Link</a> |
+| **Hikaru** | Javad_29 | win 🥇 | 17/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/3N1p1p/4p1pk/8/4N3/4P1P1/5P1P/6K1 b - - 2 29">Link</a> |
+| Javad_29 | **Hikaru** | win 🥇 | 17/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N2k1b1r/p4pp1/2pp4/2p4p/P5nP/1P2P1P1/2PP1P2/1qB1K2R w - - 0 17">Link</a> |
+| **Hikaru** | Javad_29 | win 🥇 | 17/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2r2/ppp2p2/2np4/3N1P2/2P1P1R1/1P2k3/PB1R2P1/2K5 b - - 2 29">Link</a> |
+| Javad_29 | **Hikaru** | win 🥇 | 17/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/3nk1p1/p1p2pp1/3pp3/7N/P3P1BP/2P2PP1/6K1 w - - 0 23">Link</a> |
+| **Hikaru** | Javad_29 | win 🥇 | 17/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1R4/p1p2Q1k/1p4pp/7p/4Nb2/P7/4B2P/5RK1 b - - 1 29">Link</a> |
+| Javad_29 | **Hikaru** | win 🥇 | 17/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p1q1ppbp/bp3np1/2np4/5P2/2N1PN2/PPPBQ1PP/R4RK1 w - - 0 13">Link</a> |
+| **Hikaru** | Javad_29 | win 🥇 | 17/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k7/nr5p/2Q1p1p1/3n1p2/3P4/4PN2/3B1PPP/R5K1 b - - 0 31">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
