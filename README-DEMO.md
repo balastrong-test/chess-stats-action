@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Hikaru** | Blackmind96 | win 🥇 | 18/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/5rp1/2P1Q1p1/p2p4/Pp1P2P1/1P2P2P/5q2/1KR5 w - - 1 37">Link</a> |
-| Blackmind96 | **Hikaru** | win 🥇 | 18/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1q3pPp/2n1p3/4n3/1pp5/6P1/1P1rQP1P/R4RK1 w - - 0 34">Link</a> |
-| Javad_29 | **Hikaru** | win 🥇 | 17/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p4p2/2pb1B2/3p2p1/N3p3/1P2P1Pp/P1P2PqP/R3QRK1 w - - 1 23">Link</a> |
-| **Hikaru** | Javad_29 | win 🥇 | 17/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/3N1p1p/4p1pk/8/4N3/4P1P1/5P1P/6K1 b - - 2 29">Link</a> |
-| Javad_29 | **Hikaru** | win 🥇 | 17/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N2k1b1r/p4pp1/2pp4/2p4p/P5nP/1P2P1P1/2PP1P2/1qB1K2R w - - 0 17">Link</a> |
-| **Hikaru** | Javad_29 | win 🥇 | 17/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2r2/ppp2p2/2np4/3N1P2/2P1P1R1/1P2k3/PB1R2P1/2K5 b - - 2 29">Link</a> |
-| Javad_29 | **Hikaru** | win 🥇 | 17/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/3nk1p1/p1p2pp1/3pp3/7N/P3P1BP/2P2PP1/6K1 w - - 0 23">Link</a> |
-| **Hikaru** | Javad_29 | win 🥇 | 17/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1R4/p1p2Q1k/1p4pp/7p/4Nb2/P7/4B2P/5RK1 b - - 1 29">Link</a> |
-| Javad_29 | **Hikaru** | win 🥇 | 17/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p1q1ppbp/bp3np1/2np4/5P2/2N1PN2/PPPBQ1PP/R4RK1 w - - 0 13">Link</a> |
-| **Hikaru** | Javad_29 | win 🥇 | 17/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k7/nr5p/2Q1p1p1/3n1p2/3P4/4PN2/3B1PPP/R5K1 b - - 0 31">Link</a> |
+| **Hikaru** | alexrustemov | win 🥇 | 19/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3bk3/7R/4K3/2p1BP2/2Pp4/3Pr3/P7/8 b - - 16 48">Link</a> |
+| alexrustemov | **Hikaru** | win 🥇 | 19/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2P2pk1/6p1/3qp3/8/6n1/4Q2P/7K w - - 0 53">Link</a> |
+| **Hikaru** | alexrustemov | win 🥇 | 19/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2n2/p4pkp/1p1R2p1/4Q3/1Pq3N1/P4P2/6PP/7K b - - 3 34">Link</a> |
+| alexrustemov | **Hikaru** | resigned ❌ | 19/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6P1/5k2/2b5/pn1pKN2/3B4/1PP5/8 b - - 0 44">Link</a> |
+| **Hikaru** | alexrustemov | resigned ❌ | 19/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1p3p2/p7/P1PbP3/k2P4/1p2K3/1B6 b - - 7 58">Link</a> |
+| alexrustemov | **Hikaru** | win 🥇 | 19/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p2R3/pk1p1nP1/2pP1Pn1/P1P4r/4K3/1P4Bp/8 w - - 2 49">Link</a> |
+| **Hikaru** | alexrustemov | win 🥇 | 19/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/2Rr1k2/5pp1/7p/1P2P2P/P1R1KPP1/8/8 b - - 2 51">Link</a> |
+| alexrustemov | **Hikaru** | win 🥇 | 19/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p2n1k2/2NP1Pp1/1p5p/1ppQ3P/1P6/3Kq3/5R2 w - - 2 45">Link</a> |
+| **Hikaru** | alexrustemov | win 🥇 | 19/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6p1/4b3/1R2Br1p/4p3/4K3/7P/8 b - - 1 60">Link</a> |
+| alexrustemov | **Hikaru** | repetition ⏸️ | 19/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1R1b2p1/5n2/2P5/5B1Q/5P1P/6PK/3q1n2 w - - 11 50">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
