@@ -7,6 +7,7 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
+| alexrustemov | **Hikaru** | win 🥇 | 24/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1b/4np1k/pp1p3P/2pPp1p1/P1P1Pnq1/2N1B3/1PQ2P2/R3K2R w KQ - 0 23">Link</a> |
 | theloyalwolf | **Hikaru** | win 🥇 | 19/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4R1p1/1pk5/p2N4/6p1/1r2P1K1/8 w - - 6 46">Link</a> |
 | **Hikaru** | theloyalwolf | win 🥇 | 19/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/2k1pn1p/8/2N1bP2/2K2BP1/7P/1R6 b - - 0 46">Link</a> |
 | theloyalwolf | **Hikaru** | win 🥇 | 19/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/2Q2p1k/3p2p1/3P4/1P4b1/6P1/4rqB1/6K1 w - - 7 41">Link</a> |
@@ -16,7 +17,6 @@ This file can be your README.md that gets automatically updated.
 | **Hikaru** | alexrustemov | win 🥇 | 19/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2k4/2pb1p1B/N1pn3P/3p2P1/1P1P1K2/P1P2P2/8 b - - 0 40">Link</a> |
 | artin10862 | **Hikaru** | win 🥇 | 19/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p2k3/1P3p2/1B4P1/8/pb2K3/8/8 w - - 0 55">Link</a> |
 | **Hikaru** | artin10862 | win 🥇 | 19/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7B/Pp2p3/3bk1p1/1P1p4/4p1P1/4P3/3R1P2/6K1 b - - 0 47">Link</a> |
-| artin10862 | **Hikaru** | win 🥇 | 19/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/6p1/5p2/5P2/6P1/6KP/1nb2P2/8 b - - 1 46">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
