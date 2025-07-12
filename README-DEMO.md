@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Hikaru** | Arash_Tahbaz | win 🥇 | 11/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R1prk3/1pP1p1p1/1P2P1P1/4K3/8/8/8 b - - 0 56">Link</a> |
-| Arash_Tahbaz | **Hikaru** | win 🥇 | 11/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5r2/2N4k/3P4/1R6/4P3/1p2K3/6r1 w - - 3 60">Link</a> |
-| **Hikaru** | Arash_Tahbaz | win 🥇 | 11/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p4p1p/5Np1/2pq4/1p6/1P1PbbP1/P1P2P1P/R4QK1 b - - 0 23">Link</a> |
-| Arash_Tahbaz | **Hikaru** | win 🥇 | 11/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk1nr/pp2ppbp/2p3p1/4P3/2pP4/5N2/PPP2PPP/RNBQK2R w KQkq - 0 6">Link</a> |
-| **Hikaru** | Arash_Tahbaz | win 🥇 | 11/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6K1/5p1p/3k1P1P/R5P1/6r1/8 b - - 0 55">Link</a> |
-| Arash_Tahbaz | **Hikaru** | win 🥇 | 11/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/8/p2p4/2p1b3/2P1P3/Pp1qP2N/1P4p1/2K3R1 w - - 0 42">Link</a> |
-| **Hikaru** | Arash_Tahbaz | win 🥇 | 11/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/Q1p1p2p/p3P2B/n2p1ppn/3P3q/1BP2P1P/PP4P1/R3RNK1 w - - 2 24">Link</a> |
-| Arash_Tahbaz | **Hikaru** | win 🥇 | 11/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/1pkr4/p1p1p3/8/1B6/P2q4/KP6/2n5 w - - 0 44">Link</a> |
-| **Hikaru** | Arash_Tahbaz | win 🥇 | 11/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/3R4/3P2p1/1p2K2p/7P/8/8/8 b - - 0 63">Link</a> |
-| Arash_Tahbaz | **Hikaru** | win 🥇 | 11/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k1b4/npp5/3p4/8/1Q6/K1P5/8 w - - 1 55">Link</a> |
+| Maitreia | **Hikaru** | win 🥇 | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/ppp4k/6r1/1P1pp3/5P2/3qP3/P4P2/4BK2 w - - 0 42">Link</a> |
+| **Hikaru** | Maitreia | win 🥇 | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=b6k/p3p2p/4Qbp1/8/7P/2N2PB1/P5P1/6K1 b - - 0 30">Link</a> |
+| Maitreia | **Hikaru** | win 🥇 | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/p1p3b1/Pp1p3p/1P6/2P5/2BP4/4pq2/3K1R1R w - - 0 42">Link</a> |
+| **Hikaru** | Maitreia | win 🥇 | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/5p2/7p/3kpp2/PP1p4/8/3BKP1P/2R5 b - - 2 29">Link</a> |
+| Maitreia | **Hikaru** | win 🥇 | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/p1p3bb/Pp1p1r2/1P1Bp1p1/2P2pP1/5P2/3B2K1/6Q1 w - - 2 38">Link</a> |
+| **Hikaru** | Maitreia | win 🥇 | 12/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1q2r3/1p2Npk1/3p1n2/pP3PR1/4P2p/P2B4/1Q6/7K b - - 0 35">Link</a> |
+| Maitreia | **Hikaru** | win 🥇 | 11/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p3n2b/2pR3p/8/2P1p3/1Q4b1/P5Bq/4RK2 w - - 0 32">Link</a> |
+| **Hikaru** | Maitreia | win 🥇 | 11/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5qk1/4pp2/p1Rp2n1/3P1Q2/r7/7P/P5P1/5R1K b - - 4 34">Link</a> |
+| Maitreia | **Hikaru** | win 🥇 | 11/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/4n1b1/1N2b1pp/q2ppp2/8/3P2P1/3NPPBP/1R1Q1RK1 w - - 0 20">Link</a> |
+| **Hikaru** | Maitreia | win 🥇 | 11/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rr2/1p1qn1kp/p2pp1p1/2N5/4P3/1Q6/PP3PPP/R2R2K1 b - - 5 20">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
