@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Hikaru** | N_Mullodzhanov | win 🥇 | 18/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1b6/6kP/PP6/8/3KB3/8/8 b - - 0 65">Link</a> |
-| **Hikaru** | DenishevM | win 🥇 | 18/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2b2p1k/5Pp1/6P1/1P5Q/5N1K/q7/8 b - - 7 55">Link</a> |
-| DenishevM | **Hikaru** | win 🥇 | 18/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/6k1/6pb/2pP1p2/QpP3p1/4N1P1/1P1q1KP1/4R3 w - - 2 39">Link</a> |
-| **Hikaru** | DenishevM | win 🥇 | 18/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/pp2p2k/8/4P2p/8/1P3P2/4r2P/7K b - - 0 42">Link</a> |
-| DenishevM | **Hikaru** | win 🥇 | 18/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k1r/2q1ppb1/3p1n1p/1B1n3P/pp1P4/8/1PPQ1BP1/NK1R3R w - - 2 25">Link</a> |
-| **Hikaru** | DenishevM | win 🥇 | 18/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k1p/8/2Bp4/P2P4/1P1K4/5P1P/8 b - - 0 52">Link</a> |
-| DenishevM | **Hikaru** | win 🥇 | 18/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/1r3pp1/4p2p/2np4/1P3P1P/5P2/P3PB2/3R2K1 w - - 0 32">Link</a> |
-| **Hikaru** | DenishevM | win 🥇 | 18/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/4brp1/1p2q1p1/p3P2p/2QPN1nP/PP4P1/6B1/3RR1K1 b - - 2 34">Link</a> |
-| DenishevM | **Hikaru** | win 🥇 | 18/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R7/3ppkp1/5p1p/2P1rP1P/8/4PK2/8 w - - 2 41">Link</a> |
-| **Hikaru** | nihalsarin | resigned ❌ | 18/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5pp1/4pkp1/8/R4K1n/8/8 w - - 0 49">Link</a> |
+| **Hikaru** | ILike_Latinas69 | win 🥇 | 20/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/5p2/1P1N3k/8/PK3P2/4P3/8/8 b - - 0 43">Link</a> |
+| ILike_Latinas69 | **Hikaru** | win 🥇 | 20/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/3n1pb1/p3p1p1/1p1nP1Qr/6N1/1P3P2/P1r5/2R1KB2 w - - 3 25">Link</a> |
+| **Hikaru** | ILike_Latinas69 | win 🥇 | 20/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/2R5/1pb3k1/8/6N1/P7/5PPP/6K1 b - - 0 45">Link</a> |
+| rst2003 | **Hikaru** | win 🥇 | 20/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/p4pp1/2p2n1p/1p2qQ2/7P/1P1B2P1/P6K/3R4 w - - 0 35">Link</a> |
+| **Hikaru** | rst2003 | win 🥇 | 20/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2R5/8/1P4Bp/4b1kP/1K6/2P1r3/8 b - - 2 46">Link</a> |
+| rst2003 | **Hikaru** | win 🥇 | 20/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1p2qp2/3p4/rPpP2pb/2PbP2p/1QNpRP1P/1K2n1P1/5NR1 w - - 8 35">Link</a> |
+| **Hikaru** | rst2003 | win 🥇 | 20/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/1p3b2/p1p2pp1/7p/3kP2P/1P1N1P2/P1PK2P1/7R b - - 7 29">Link</a> |
+| rst2003 | **Hikaru** | win 🥇 | 20/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/1p4pp/p2p4/3Pnp2/1PP1r1q1/3Q2P1/P4B1P/3RR1K1 w - - 2 29">Link</a> |
+| **Hikaru** | rst2003 | win 🥇 | 20/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/1ppb3k/p1p2rp1/2N2p1p/3P3P/1PP2P2/P5P1/4RRK1 b - - 1 27">Link</a> |
+| rst2003 | **Hikaru** | win 🥇 | 20/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/8/5k2/p4P2/1r2R1K1/8/8 w - - 2 56">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
