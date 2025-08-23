@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| Jazmincatorce | **Hikaru** | win 🥇 | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/4pp1p/p2p1npQ/q5N1/P1P5/2n4P/4BPP1/1R4K1 w - - 1 23">Link</a> |
-| **Hikaru** | Jazmincatorce | win 🥇 | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3N1pk1/6p1/2q1Q3/P3p3/4P2P/5PPK/8 b - - 0 45">Link</a> |
-| **Hikaru** | Chess_Caio2007 | win 🥇 | 21/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/1pN1bpp1/1Bn1p2p/3p4/P2Pn3/2P5/1P2BPPP/R3R1K1 b - - 2 24">Link</a> |
-| Chess_Caio2007 | **Hikaru** | win 🥇 | 21/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/2p5/pp1p1kp1/8/P2P1P2/2P4P/1Pq1r2B/5RK1 w - - 0 36">Link</a> |
-| **Hikaru** | Chess_Caio2007 | win 🥇 | 21/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk2r/1p3ppp/2p2n2/p2pp3/1P2P3/1B1P1N2/1PP2PPP/RNBQK2R b KQkq - 0 7">Link</a> |
-| Chess_Caio2007 | **Hikaru** | win 🥇 | 21/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/6pp/1NP1bp2/1P6/5P1n/7r/4R2K w - - 0 40">Link</a> |
-| **Hikaru** | Chess_Caio2007 | win 🥇 | 21/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3Bp1b1/2p1P1p1/1p1b1kR1/4pP2/2n5/3B1K1P/8 b - - 1 32">Link</a> |
-| Chess_Caio2007 | **Hikaru** | win 🥇 | 21/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6RP/8/5p2/3p1k1q/8/4P3/5K2 w - - 0 56">Link</a> |
-| **Hikaru** | Chess_Caio2007 | agreed ⏸️ | 21/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/6Q1/2K5/7p/7k w - - 13 66">Link</a> |
-| Chess_Caio2007 | **Hikaru** | win 🥇 | 21/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p2Qpk1/p3b1pp/4b3/4N1P1/1P2P2P/5PB1/1q4K1 w - - 1 29">Link</a> |
+| **Hikaru** | gueraumasague | win 🥇 | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2kr1/1q2bp2/2p1p3/8/2N1Q3/2P3P1/PP3P1P/R3K2R b KQ - 0 22">Link</a> |
+| gueraumasague | **Hikaru** | win 🥇 | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/5rb1/pR5p/3npP1P/P1p5/2P1R3/2B2PP1/6K1 w - - 1 33">Link</a> |
+| **Hikaru** | jefferyx | win 🥇 | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k7/8/bpQ5/1n2NP2/1P2P3/2P5/1KB3q1/8 b - - 0 57">Link</a> |
+| ChessLover0108 | **Hikaru** | insufficient ⏸️ | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/b7/8/8/4k1K1/5N2/8/8 w - - 0 129">Link</a> |
+| **Hikaru** | Volodar_Murzin | win 🥇 | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5k1/1p1K4/1BpN4/P1P1P3/8/2r5/8 b - - 3 38">Link</a> |
+| OparinGrigoriy | **Hikaru** | win 🥇 | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/1K1r3p/1PQ3p1/3q4/8/8/7P/8 w - - 4 52">Link</a> |
+| **Hikaru** | Parhamov | win 🥇 | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=br2R3/2qp1pk1/2n2Np1/p1p3P1/1P2P3/1P6/P2P3P/BnQ1K2B b - - 0 24">Link</a> |
+| Drstrange2015 | **Hikaru** | win 🥇 | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1bR4p/1P4pk/3p1p2/P6r/1Q2P1q1/5RP1/5BKr w - - 5 37">Link</a> |
+| **Hikaru** | Grischuk | resigned ❌ | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7p/PR5P/8/4bk2/8/r6K w - - 11 63">Link</a> |
+| Oleksandr_Bortnyk | **Hikaru** | insufficient ⏸️ | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5k2/8/5K2/8/8/8 w - - 0 58">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
