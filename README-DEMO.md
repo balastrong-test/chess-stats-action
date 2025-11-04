@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Hikaru** | Mykola-Bortnyk | repetition ⏸️ | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4kb1/1p3n2/2p5/6q1/2PPR3/P4Q2/5K2 b - - 11 37">Link</a> |
-| Mykola-Bortnyk | **Hikaru** | repetition ⏸️ | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/P7/8/8/5p1p/5k1P/r7/6K1 w - - 12 62">Link</a> |
-| **Hikaru** | Mykola-Bortnyk | win 🥇 | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/8/1PNKn3/8/8/8/8/8 b - - 17 63">Link</a> |
-| Mykola-Bortnyk | **Hikaru** | resigned ❌ | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pb1qb3/1p4p1/3pB1N1/7Q/5R2/PPP2PPP/6K1 b - - 2 22">Link</a> |
-| **Hikaru** | Mykola-Bortnyk | resigned ❌ | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k3/8/1p6/2B2pp1/PP4n1/5KP1/2r5 w - - 0 43">Link</a> |
-| Mykola-Bortnyk | **Hikaru** | win 🥇 | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rq1k/R6p/2p4r/3p2p1/3PpnN1/2P3Q1/5PP1/5NK1 w - - 4 34">Link</a> |
-| **Hikaru** | Mykola-Bortnyk | win 🥇 | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R1n2k1/2r3p1/2bN2p1/2p1P3/2Pn1PB1/2B3K1/8/8 b - - 2 52">Link</a> |
-| Mykola-Bortnyk | **Hikaru** | win 🥇 | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/5p2/8/5R2/4r1P1/2r2PK1/8/8 w - - 0 51">Link</a> |
-| **Hikaru** | Mykola-Bortnyk | win 🥇 | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/5pkp/4p1p1/8/3PBP2/4Q1PP/1r3PK1/q7 b - - 0 34">Link</a> |
-| Mykola-Bortnyk | **Hikaru** | win 🥇 | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/k7/1p3q1P/p7/5P2/5Q2/6PK/1b6 w - - 3 44">Link</a> |
+| aa175 | **Hikaru** | win 🥇 | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K7/2k5/8/8/q7/8/8/8 w - - 32 75">Link</a> |
+| **Hikaru** | aa175 | win 🥇 | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q1kb1r/1p2pp2/p3r1pp/2p1P2b/2N3nP/1P1R1N2/PBPQ1PP1/2KR4 b k - 1 19">Link</a> |
+| EmmaChess | **Hikaru** | win 🥇 | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/1p1n1p2/2p1p3/p3Pnqp/P1QP3P/5BP1/1P4K1/R4R2 w kq - 0 25">Link</a> |
+| **Hikaru** | EmmaChess | win 🥇 | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr3/ppp4k/4BN1p/8/4PP1n/PP1p4/5K2/R4R2 b - - 3 29">Link</a> |
+| EmmaChess | **Hikaru** | win 🥇 | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/4p3/2Rp4/1r1PpPp1/2p3Pp/7P/6K1/8 w - - 0 53">Link</a> |
+| **Hikaru** | EmmaChess | win 🥇 | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3N2rk/3n1p1b/1p2pp1p/8/1qP2P1P/4Q1P1/3R2B1/3R2K1 b - - 0 37">Link</a> |
+| EmmaChess | **Hikaru** | win 🥇 | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/1p3ppp/p1n2n2/1N2p3/3p4/1PP2N2/PB1QPPPP/R3KB1R w KQkq - 0 10">Link</a> |
+| **Hikaru** | EmmaChess | win 🥇 | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1kr4/3q1pp1/1pp3p1/P3N3/2P1PP1P/2Qn2P1/6K1/R2R4 b - - 1 34">Link</a> |
+| EmmaChess | **Hikaru** | win 🥇 | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/b6p/p7/1p1B1Pk1/7r/1P3K2/P7/8 w - - 0 47">Link</a> |
+| **Hikaru** | EmmaChess | win 🥇 | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pB4pk/6rp/4P3/2P2R1P/1P6/P1b4K/8 b - - 0 37">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
