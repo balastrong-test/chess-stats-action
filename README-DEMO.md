@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Hikaru** | mind1mover | win 🥇 | 25/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1knQ4/2pN1K2/p7/5pq1/1P1BP1P1/2PP4/8 b - - 2 44">Link</a> |
-| mind1mover | **Hikaru** | win 🥇 | 25/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/5kb1/1r1p4/2pP4/p3pp1B/P1Nb4/3K2P1/8 w - - 8 72">Link</a> |
-| **Hikaru** | yavrukurt40 | win 🥇 | 25/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/qb3ppB/2n2b2/1R6/8/4PN2/N1Q2PPP/3R2K1 b - - 0 21">Link</a> |
-| yavrukurt40 | **Hikaru** | win 🥇 | 25/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/5pb1/3P3p/1pB3np/1P6/1N3R1K/4r3/5N2 w - - 5 48">Link</a> |
-| **Hikaru** | yavrukurt40 | win 🥇 | 25/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1r4bk/1r1PQ3/6p1/4Pp1p/7P/3pN1PK/3R4 b - - 0 47">Link</a> |
-| yavrukurt40 | **Hikaru** | win 🥇 | 25/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp4pp/5p2/8/8/4K1P1/P1r4P/3R4 w - - 2 29">Link</a> |
-| **Hikaru** | yavrukurt40 | insufficient ⏸️ | 25/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5k2/8/4B3/7K/8/8 b - - 0 74">Link</a> |
-| yavrukurt40 | **Hikaru** | win 🥇 | 25/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1p1p4/1P1Pk3/2K1pn2/7B/1P3P2/8 w - - 6 54">Link</a> |
-| **Hikaru** | yavrukurt40 | win 🥇 | 25/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1Bb5/6k1/3p4/3PpPPp/4B2P/5K2/7b b - - 3 47">Link</a> |
-| yavrukurt40 | **Hikaru** | win 🥇 | 25/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/3b2pp/1r3p2/3Pp3/2n1PP2/2r3P1/1p4BP/1R1R1NK1 w - - 2 44">Link</a> |
+| mind1mover | **Hikaru** | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/5pkp/2R3p1/1p2p3/2nN4/PK2P1PP/5P2/8 w - - 2 35">Link</a> |
+| **Hikaru** | mind1mover | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/4k1p1/8/PRn5/6P1/7P/6K1 b - - 2 44">Link</a> |
+| mind1mover | **Hikaru** | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/8/2pp1r2/8/3P4/3K4/8/8 w - - 0 55">Link</a> |
+| **Hikaru** | mind1mover | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp3p2/3k1b1p/5b2/PN1PN1p1/1P2K3/5PPP/8 b - - 1 35">Link</a> |
+| mind1mover | **Hikaru** | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/1Q6/6rp/p7/P1BN4/1P4Pn/5qK1/8 w - - 0 41">Link</a> |
+| **Hikaru** | mind1mover | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/2k1qp1p/pp1p2p1/2pQn3/2P2P2/1P4P1/PK4BP/3R4 b - - 1 24">Link</a> |
+| mind1mover | **Hikaru** | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/2nn1p1k/p1qpp1pp/2p5/N1Pb1PP1/4R3/2B1Q2P/5RK1 w - - 1 29">Link</a> |
+| **Hikaru** | mind1mover | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/5p1p/P3p3/3p1p2/1P3P2/7P/2R5/6K1 w - - 1 42">Link</a> |
+| mind1mover | **Hikaru** | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/3k4/3P4/p6P/Pp4P1/1P3P2/2P1RK2/8 w - - 3 82">Link</a> |
+| **Hikaru** | mind1mover | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/5pkp/p1nP1np1/8/5P2/2Q1P2P/P3NKP1/8 b - - 0 30">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
