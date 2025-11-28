@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| mind1mover | **Hikaru** | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/5pkp/2R3p1/1p2p3/2nN4/PK2P1PP/5P2/8 w - - 2 35">Link</a> |
-| **Hikaru** | mind1mover | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/4k1p1/8/PRn5/6P1/7P/6K1 b - - 2 44">Link</a> |
-| mind1mover | **Hikaru** | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/8/2pp1r2/8/3P4/3K4/8/8 w - - 0 55">Link</a> |
-| **Hikaru** | mind1mover | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp3p2/3k1b1p/5b2/PN1PN1p1/1P2K3/5PPP/8 b - - 1 35">Link</a> |
-| mind1mover | **Hikaru** | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/1Q6/6rp/p7/P1BN4/1P4Pn/5qK1/8 w - - 0 41">Link</a> |
-| **Hikaru** | mind1mover | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/2k1qp1p/pp1p2p1/2pQn3/2P2P2/1P4P1/PK4BP/3R4 b - - 1 24">Link</a> |
-| mind1mover | **Hikaru** | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/2nn1p1k/p1qpp1pp/2p5/N1Pb1PP1/4R3/2B1Q2P/5RK1 w - - 1 29">Link</a> |
-| **Hikaru** | mind1mover | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/5p1p/P3p3/3p1p2/1P3P2/7P/2R5/6K1 w - - 1 42">Link</a> |
-| mind1mover | **Hikaru** | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/3k4/3P4/p6P/Pp4P1/1P3P2/2P1RK2/8 w - - 3 82">Link</a> |
-| **Hikaru** | mind1mover | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/5pkp/p1nP1np1/8/5P2/2Q1P2P/P3NKP1/8 b - - 0 30">Link</a> |
+| ArtemDyachuk | **Hikaru** | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2r1k1/p4pp1/1pp2P2/3pP1Qp/P5P1/7P/8/2Bq2K1 w - - 2 33">Link</a> |
+| **Hikaru** | ArtemDyachuk | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3P4/p7/7p/4k3/8/7P/2r2RK1 b - - 2 44">Link</a> |
+| mishanick | **Hikaru** | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5K1k/8/5qb1/8/8/8/8/8 w - - 8 92">Link</a> |
+| **Hikaru** | yosephtaher | insufficient ⏸️ | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5k2/8/2K5/8/8 w - - 0 70">Link</a> |
+| rezamahdavi2008 | **Hikaru** | repetition ⏸️ | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6pk/8/5PP1/5NK1/2r4p/6bR b - - 15 69">Link</a> |
+| **Hikaru** | MagnusCarlsen | resigned ❌ | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3b1k1p/6p1/3rR1P1/p6P/6P1/6K1 w - - 0 53">Link</a> |
+| **Hikaru** | Parhamov | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=QB4r1/1kN3P1/8/8/8/5K2/8/8 b - - 0 57">Link</a> |
+| Sina-Movahed | **Hikaru** | repetition ⏸️ | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1p3p1k/pP1p1P1p/P2P1PpP/6K1/8 w - - 8 60">Link</a> |
+| **Hikaru** | artin10862 | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/8/4K3/3P4/1Rn5/8/8/8 b - - 0 62">Link</a> |
+| MITerryble | **Hikaru** | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/pp6/4K3/3p4/2pP1qP1/8/P1b5/Q4BR1 w - - 3 30">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
