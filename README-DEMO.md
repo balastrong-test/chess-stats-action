@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Hikaru** | jefferyx | win 🥇 | 2/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p1q2p/1pB3pk/rP2Pp2/n2P1P2/3R3P/5QP1/6K1 b - - 2 35">Link</a> |
-| shimastream | **Hikaru** | win 🥇 | 2/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/3k1p2/5Q2/4p3/1p6/3r4/b1P1R1PP/q1K2R2 w - - 6 33">Link</a> |
-| **Hikaru** | MagnusCarlsen | resigned ❌ | 2/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p7/2pb2k1/6pp/P7/5K1P/8 w - - 0 51">Link</a> |
-| **Hikaru** | Polish_fighter3000 | win 🥇 | 2/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q2k1/5p2/4p1pp/p7/P3P3/2r3P1/5PKP/1B6 b - - 0 33">Link</a> |
-| vi_pranav | **Hikaru** | repetition ⏸️ | 2/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kb1r/pp3p1p/2p1pp2/q4b2/3P4/2P2NP1/PP3PBP/R1BQK2R b KQkq - 8 13">Link</a> |
-| **Hikaru** | Sina-Movahed | win 🥇 | 2/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/2P5/8/4Qp1p/6qP/1P4P1/P3nR1K/5R2 w - - 0 46">Link</a> |
-| Konavets | **Hikaru** | stalemate ⏸️ | 2/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6P1/5PK1/4B3/8/8/8/8 b - - 0 78">Link</a> |
-| **Hikaru** | Andreikka | win 🥇 | 2/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/5p2/1p3k1Q/1pP1p3/8/4Pq2/P4PbP/1B1R2K1 b - - 2 28">Link</a> |
-| FormerProdigy | **Hikaru** | win 🥇 | 2/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p2/r1P2Rp1/3p4/8/4PKPp/5P1P/2r5 w - - 4 38">Link</a> |
-| **Hikaru** | chegueps | win 🥇 | 2/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5kbp/4P1p1/R4p2/p2B1P2/4P1P1/2r4P/6K1 b - - 0 36">Link</a> |
+| aa175 | **Hikaru** | win 🥇 | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4kB2/4P2p/p1p5/r1P4P/4K3/8/8 w - - 2 66">Link</a> |
+| **Hikaru** | aa175 | win 🥇 | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4B3/8/5k2/1pK2p2/1P3P2/3b2P1/8/8 b - - 8 54">Link</a> |
+| aa175 | **Hikaru** | win 🥇 | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/5p1k/p3p2p/Pp3P2/1P5r/8/4R2K/5R2 w - - 1 40">Link</a> |
+| **Hikaru** | aa175 | win 🥇 | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2br1r2/6kp/2P2pp1/1P1p1n1P/1n6/5NP1/3N1P2/1BR1R1K1 b - - 0 29">Link</a> |
+| aa175 | **Hikaru** | repetition ⏸️ | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2b1k3/4P3/1Pp2K2/2P4p/p6P/B7/8 w - - 20 83">Link</a> |
+| **Hikaru** | aa175 | win 🥇 | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1qb2rk1/1p4pp/4p3/3n1p2/pP6/b6R/P2B1PPP/1Q2RBK1 b - - 1 24">Link</a> |
+| aa175 | **Hikaru** | win 🥇 | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3K3p/3B4/1k2p1P1/p7/8/8 w - - 0 54">Link</a> |
+| **Hikaru** | aa175 | repetition ⏸️ | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/p4p2/1p1b1qp1/2np4/8/1P1bPN1B/P1QN1PPP/R2R2K1 w - - 12 22">Link</a> |
+| aa175 | **Hikaru** | win 🥇 | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1q6/8/K7/5k2/3n4/8/q7 w - - 6 100">Link</a> |
+| **Hikaru** | aa175 | win 🥇 | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/7k/4p3/pp1p3R/3P4/2P3RP/PP3p1K/8 b - - 1 49">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
