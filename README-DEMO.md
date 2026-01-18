@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Hikaru** | tactic | win 🥇 | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N7/5k2/2p2p2/3rp2p/3P2p1/1PP2N2/P4PPP/4RK2 b - - 0 28">Link</a> |
-| tactic | **Hikaru** | win 🥇 | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/2p3bp/1p1n4/pPpP4/2P3p1/R2B1rB1/6K1/8 w - - 3 33">Link</a> |
-| **Hikaru** | tactic | win 🥇 | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2n2k1/1b1p1q2/pp1P1ppp/3P4/6Q1/1P4P1/PB3PBP/4R1K1 b - - 5 24">Link</a> |
-| tactic | **Hikaru** | win 🥇 | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/5p2/3N3p/2P3P1/8/2b3P1/3prPK1/3R4 w - - 1 36">Link</a> |
-| **Hikaru** | tactic | win 🥇 | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1q4k1/1P3pb1/r5p1/PQ5p/2pP4/2B4P/5PP1/1R4K1 b - - 2 34">Link</a> |
-| tactic | **Hikaru** | win 🥇 | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k1r/1b3nb1/p2pppQ1/qp4pP/3P2P1/1n2B3/1P2BNN1/5K1R w - - 7 27">Link</a> |
-| **Hikaru** | tactic | win 🥇 | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R5k1/7p/4p3/2p1Ppp1/1p6/5N2/4P3/5K2 b - - 1 39">Link</a> |
-| tactic | **Hikaru** | win 🥇 | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4bk2/4r3/8/3K4/8/8/5q2 w - - 0 77">Link</a> |
-| **Hikaru** | tactic | win 🥇 | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p4p2/2q3pQ/2P4p/3R4/1P3N1P/P4PP1/R5K1 b - - 0 23">Link</a> |
-| tactic | **Hikaru** | win 🥇 | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6b1/8/5kpp/8/8/8/7K w - - 0 53">Link</a> |
+| **Hikaru** | Konavets | win 🥇 | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/k1P1K3/8/8/8/8/1N6/8 b - - 0 93">Link</a> |
+| Jospem | **Hikaru** | checkmated ❌ | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/pQ6/3N1r1N/4P3/2PP4/8/P5P1/4R1K1 b - - 0 50">Link</a> |
+| **Hikaru** | Konavets | win 🥇 | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/7k/N7/8/1P6/6PK/8 b - - 0 45">Link</a> |
+| **Hikaru** | gurelediz | win 🥇 | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/4K3/1P6/8/5Q2/8/7k b - - 2 85">Link</a> |
+| Jospem | **Hikaru** | win 🥇 | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p2/6p1/2p5/4p3/4P1Pn/q4P1P/3Q2K1 w - - 0 43">Link</a> |
+| MITerryble | **Hikaru** | win 🥇 | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1kr5/2q2p2/3pp2b/p3r2p/Q3P3/3B2P1/Pp4P1/1K1R3R w - - 0 39">Link</a> |
+| **Hikaru** | Jospem | win 🥇 | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rb2r1k1/7p/2Q5/Pp1b1q2/1B1Ppp2/PB4P1/5P1P/1R3RK1 b - - 0 30">Link</a> |
+| johnathan113 | **Hikaru** | win 🥇 | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5rk/p2Q1p2/R1B1p1p1/3pPn1p/3P1P1b/2q2P1K/4R3/8 w - - 2 35">Link</a> |
+| **Hikaru** | Oleksandr_Bortnyk | win 🥇 | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1r3/p3qb1p/1pn3p1/2p2p2/B1P1p3/4QP2/PPPR2PP/4R1K1 b - - 2 28">Link</a> |
+| **Hikaru** | Jospem | repetition ⏸️ | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1r1kR/1p3p2/p2pnqp1/P2P2n1/8/1N3B2/1PPQ2K1/7R b - - 10 36">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
