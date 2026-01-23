@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| MolecularChemist | **Hikaru** | win 🥇 | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/3q3k/p4pp1/Pp2p2p/1P2b2P/3B2P1/3Q1P1K/4N3 w - - 0 41">Link</a> |
-| **Hikaru** | MolecularChemist | win 🥇 | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2rk/pp3p2/6p1/2ppP1n1/2P2P1P/1P1R4/PK4Q1/5R2 b - - 0 34">Link</a> |
-| MolecularChemist | **Hikaru** | win 🥇 | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3k1pbp/5Bp1/3p1P1P/6P1/3K4/8 w - - 3 48">Link</a> |
-| **Hikaru** | MolecularChemist | win 🥇 | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2P1Q2k/7p/8/5p2/4B2P/5PPK/2r1r3 b - - 0 38">Link</a> |
-| MolecularChemist | **Hikaru** | win 🥇 | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/pp5p/4p2r/3P1ppq/2P2n2/1P3P2/P4P1Q/4RRNK w - - 2 29">Link</a> |
-| **Hikaru** | MolecularChemist | resigned ❌ | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6p1/6k1/5b2/5K2/8/8 w - - 2 85">Link</a> |
-| MolecularChemist | **Hikaru** | win 🥇 | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/4Np2/PK6/4P3/5k2/5b2/8 w - - 1 64">Link</a> |
-| **Hikaru** | MolecularChemist | win 🥇 | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3q1k1/1p3Rb1/p5pp/2B5/4r3/1PP4P/1P3QP1/5R1K b - - 0 25">Link</a> |
-| MolecularChemist | **Hikaru** | win 🥇 | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/pp4bp/6p1/3Np3/3n2P1/5pP1/PP3PB1/R2QR1K1 w - - 0 18">Link</a> |
-| **Hikaru** | MolecularChemist | stalemate ⏸️ | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2p5/2p5/5p2/8/1kr4p/7K w - - 0 72">Link</a> |
+| **Hikaru** | Grischuk | resigned ❌ | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5bk1/6p1/8/3q3P/3P1B2/2P3K1/1p3P2/8 w - - 0 47">Link</a> |
+| **Hikaru** | GM_dmitrij | repetition ⏸️ | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/6k1/6Bp/p6P/Kb6/8 b - - 64 143">Link</a> |
+| amintabatabaei | **Hikaru** | win 🥇 | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3Pk1pp/2n2p2/3R1K1P/r5P1/8 w - - 0 54">Link</a> |
+| **Hikaru** | Oleksandr_Bortnyk | win 🥇 | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppkb1p2/2p1pN2/4P1p1/6P1/5P2/PPPR1N1r/1K6 b - - 3 28">Link</a> |
+| Jospem | **Hikaru** | win 🥇 | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/pp1b4/3k4/K7/3q4/r7/8 w - - 2 72">Link</a> |
+| **Hikaru** | jefferyx | win 🥇 | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/6Q1/8/4Kp1k/8 b - - 4 81">Link</a> |
+| Micki-taryan | **Hikaru** | win 🥇 | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p4p2/PpN4p/2b3p1/8/1Q4P1/1P1r2bP/R5K1 w - - 2 45">Link</a> |
+| **Hikaru** | MITerryble | win 🥇 | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b2rk1/4R3/1p6/p2pR1P1/7P/5p2/P4P2/6K1 b - - 0 41">Link</a> |
+| OhanyanEminChess | **Hikaru** | win 🥇 | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/8/pp1p4/2pPp3/P1P1QP2/1P3bNq/5P2/5K2 w - - 7 45">Link</a> |
+| **Hikaru** | aa175 | win 🥇 | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b4r/pp2R1Qp/2p2p2/7k/6pP/6P1/PP4P1/5K1R b - - 0 30">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
