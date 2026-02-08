@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| Hamlet | **Hikaru** | win 🥇 | 5/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/2p5/p1bp3k/1p2r2P/4p3/P4p1R/1PP2P2/2KR1B2 w - - 14 35">Link</a> |
-| **Hikaru** | Hamlet | win 🥇 | 5/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1PQ3bk/6p1/7p/4p2P/4BqP1/5P1K/8 b - - 2 48">Link</a> |
-| Hamlet | **Hikaru** | win 🥇 | 5/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1r2/6kp/5np1/1B1bNp2/8/4Q2P/5Pq1/1R3RK1 w - - 0 28">Link</a> |
-| **Hikaru** | Hamlet | win 🥇 | 5/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/5p2/2p1p2p/4Bkp1/4R1P1/5P2/3p3K/3q4 b - g3 0 44">Link</a> |
-| **Hikaru** | Sajid0987654321 | win 🥇 | 5/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/8/p5pk/4P2p/1Pq4P/5P2/6PK/8 b - - 6 70">Link</a> |
-| Sajid0987654321 | **Hikaru** | win 🥇 | 5/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/4pp1p/3P2p1/8/P1rQ4/1q4P1/5PKP/3R4 w - - 0 32">Link</a> |
-| **Hikaru** | Sajid0987654321 | win 🥇 | 5/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/3RBp1p/p3n1p1/P2N4/1P4P1/2b1P2P/4K3/8 b - - 2 35">Link</a> |
-| Sajid0987654321 | **Hikaru** | win 🥇 | 5/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/p3ppkp/1pb1q1p1/1Q6/1P6/6P1/P3PP1P/6K1 w - - 1 24">Link</a> |
-| **Hikaru** | Sajid0987654321 | win 🥇 | 5/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/PQ3k2/R5p1/2K2p1p/4p2P/6P1/5P2/3q4 b - - 4 49">Link</a> |
-| Sajid0987654321 | **Hikaru** | win 🥇 | 5/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2bk1/5p2/2Bq2p1/1Q6/8/p5P1/7P/2R4K w - - 0 41">Link</a> |
+| IlanSchnaider | **Hikaru** | win 🥇 | 8/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5K2/3kp3/8/6r1/5p2/8/8 w - - 0 74">Link</a> |
+| **Hikaru** | IlanSchnaider | win 🥇 | 8/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2r1k/3RQ1p1/p6p/1pq1p3/5P1P/2N5/PPP5/1K5R b - - 0 27">Link</a> |
+| **Hikaru** | Firouzja2003 | timeout ❌ | 7/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/pq1r1p1k/6p1/4Q2p/1P1p3P/P4KP1/5P2/8 w - - 7 36">Link</a> |
+| Firouzja2003 | **Hikaru** | insufficient ⏸️ | 7/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/6k1/8/8/8/5K2 b - - 0 70">Link</a> |
+| **Hikaru** | Firouzja2003 | resigned ❌ | 7/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4K3/4R3/5Pk1/2q5/8/8/8/8 b - - 4 104">Link</a> |
+| Firouzja2003 | **Hikaru** | timeout ❌ | 7/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/8/3pP3/3P1K2/2P5/8/1r6/5R2 b - - 0 48">Link</a> |
+| **Hikaru** | Firouzja2003 | timeout ❌ | 7/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/pp4k1/3p2p1/3P3p/1P1pq2P/6P1/5b1K/8 w - - 0 51">Link</a> |
+| Firouzja2003 | **Hikaru** | 50move  | 7/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1K6/1R1k4/8/8/7r b - - 100 136">Link</a> |
+| **Hikaru** | Firouzja2003 | win 🥇 | 7/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/4Npp1/R2n2p1/7r/P3R2P/5P2/1PK5/7r b - - 4 39">Link</a> |
+| Firouzja2003 | **Hikaru** | repetition ⏸️ | 7/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p1r1pR2/1p2Bn1k/5P2/P4K2/1P6/8 w - - 17 60">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
