@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
+| **Hikaru** | Aleksey_Sorokin | win 🥇 | 1/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4pkP/6p1/1p3qN1/5P2/2Q5/P5PK/4n3 b - - 0 45">Link</a> |
+| **Hikaru** | Tunartank | win 🥇 | 1/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1b4p1/5p1p/1P6/1q1N1P2/1Q2P3/5KPP/8 b - - 5 37">Link</a> |
+| Tunartank | **Hikaru** | win 🥇 | 1/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6r1/5RR1/2Bp4/3P4/4n1p1/6P1/1r4K1 w - - 8 44">Link</a> |
+| **Hikaru** | Tunartank | win 🥇 | 1/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/8/4pq1p/2pp3k/2P3B1/4P3/6PP/6K1 b - - 0 40">Link</a> |
+| **Hikaru** | Tunartank | win 🥇 | 1/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/7n/6P1/4PK1P/8/8/8/8 b - - 0 64">Link</a> |
+| Tunartank | **Hikaru** | win 🥇 | 1/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k4/p7/n2p4/3P1pP1/5P2/5K2/8 w - - 0 50">Link</a> |
 | **Hikaru** | littleplotkin | win 🥇 | 28/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4q3/3n1k2/Q7/1p3Npp/p2p4/P2B3P/1P3PP1/6K1 b - - 0 35">Link</a> |
 | littleplotkin | **Hikaru** | win 🥇 | 28/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2N5/1P6/3p2k1/2pPp1P1/2P1q3/4K1n1/8/8 w - - 0 59">Link</a> |
 | **Hikaru** | GMDragz | win 🥇 | 28/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/2P1P3/8/1P2PN2/3K4/8/1n6/8 b - - 0 63">Link</a> |
 | **Hikaru** | spectralsoul | win 🥇 | 27/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6p1/1b5p/1P1q4/2Q5/7P/3N1PP1/6K1 b - - 6 60">Link</a> |
-| spectralsoul | **Hikaru** | win 🥇 | 27/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k1p/3p2pB/3Pb1P1/7P/5B2/2b3K1/8 w - - 13 62">Link</a> |
-| **Hikaru** | Uncle_Onizuka | win 🥇 | 27/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rR5/1P3pk1/5qp1/3p2n1/3N1P2/4P1P1/1Q4K1/8 b - - 0 50">Link</a> |
-| Uncle_Onizuka | **Hikaru** | win 🥇 | 27/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rbr1k1/5p1p/R5p1/1p1q4/2pp4/4PNP1/1P2QP1P/2R3K1 w - - 0 28">Link</a> |
-| **Hikaru** | Uncle_Onizuka | win 🥇 | 27/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/P7/4k3/4B1P1/8/6K1/8 b - - 0 69">Link</a> |
-| **Hikaru** | kids2010 | win 🥇 | 26/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/3P2Rp/7P/pp4P1/1P2K3/6r1/8/8 b - - 0 58">Link</a> |
-| kids2010 | **Hikaru** | win 🥇 | 26/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1p4bp/p2p2q1/2pPP2n/2P2p2/2N1Q1PP/PP4K1/R1B2R2 w - - 0 20">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
