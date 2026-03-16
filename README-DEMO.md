@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| super_emi_26 | **Hikaru** | win 🥇 | 15/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2b1qp1k/6pp/3R4/3Pnp1P/8/5PP1/2B2BK1 w - - 1 43">Link</a> |
-| **Hikaru** | super_emi_26 | win 🥇 | 15/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1qk2r/ppp2p2/1n2p1p1/4P1bp/3BBP2/2NPQ3/PP4PP/R4RK1 b k f3 0 20">Link</a> |
-| super_emi_26 | **Hikaru** | win 🥇 | 15/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4q1k1/r4rpp/2p1B3/4P3/5n2/1Q6/PB3bKP/3R4 w - - 2 28">Link</a> |
-| super_emi_26 | **Hikaru** | resigned ❌ | 15/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/k1K5/P1P5/8/8/8/6R1 b - - 0 94">Link</a> |
-| **Hikaru** | super_emi_26 | win 🥇 | 15/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/1pn1K1p1/1p5p/1Pp1P1pP/P1P5/6P1/1B6/8 b - - 5 43">Link</a> |
-| super_emi_26 | **Hikaru** | win 🥇 | 15/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1pp3p1/p3b3/4Pp2/4p2P/PP2P1q1/1B6/R2B1K1R w - - 0 25">Link</a> |
-| **Hikaru** | super_emi_26 | resigned ❌ | 15/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/Q7/4p2r/8/2bp4/P3q3/5R1P/5K2 w - - 4 47">Link</a> |
-| super_emi_26 | **Hikaru** | win 🥇 | 15/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/p4pk1/6p1/1p3n2/1Qp1Np1r/3qnB2/PP5P/K3R2R b - - 5 29">Link</a> |
-| **Hikaru** | super_emi_26 | win 🥇 | 15/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/R7/1p3b1p/5P2/8/7P/P1r3P1/5R1K b - - 0 42">Link</a> |
-| super_emi_26 | **Hikaru** | win 🥇 | 14/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3k3/6pK/p5P1/5n2/8/8/8 w - - 0 60">Link</a> |
+| ElliotAldersonTwitch | **Hikaru** | win 🥇 | 16/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/4p2q/1p1p3Q/2b5/6P1/6PK/8 w - - 3 47">Link</a> |
+| **Hikaru** | ElliotAldersonTwitch | win 🥇 | 16/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/6k1/5Q2/4Pp2/3prP2/7P/6PK/8 b - - 3 46">Link</a> |
+| ElliotAldersonTwitch | **Hikaru** | win 🥇 | 16/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r5k/6qP/2p1p3/p1P3p1/3R4/P2Q2P1/1Pn5/K7 w - - 3 39">Link</a> |
+| super_emi_26 | **Hikaru** | win 🥇 | 16/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1kr/1b3q1p/pB4p1/2Q5/P7/3P2bP/1PP3P1/R5K1 w - - 0 25">Link</a> |
+| **Hikaru** | super_emi_26 | win 🥇 | 16/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5R2/4p1p1/7p/1P3Pk1/2P2N2/4RPK1/r2r4 b - - 4 51">Link</a> |
+| super_emi_26 | **Hikaru** | win 🥇 | 16/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2p3r1/3pB3/3Pk3/8/r3K3/7R w - - 18 70">Link</a> |
+| **Hikaru** | super_emi_26 | win 🥇 | 16/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b5/8/6k1/1B4P1/1P3K2/8/8/8 b - - 4 55">Link</a> |
+| super_emi_26 | **Hikaru** | win 🥇 | 16/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/8/5p1p/4p2P/1k1pP1P1/3K1P2/8 w - - 10 71">Link</a> |
+| **Hikaru** | super_emi_26 | win 🥇 | 16/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/ppppp1pp/8/5p2/3P4/6P1/PPP1PP1P/RNBQKBNR b KQkq - 0 2">Link</a> |
+| **Hikaru** | ElliotAldersonTwitch | win 🥇 | 15/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/8/8/8/6P1/Q1p3K1/2N2P2/8 b - - 2 69">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
