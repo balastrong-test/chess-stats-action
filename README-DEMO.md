@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Hikaru** | FREDERICKtheMATE | win 🥇 | 22/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/7P/5KP1/8/8/8/8/8 b - - 0 77">Link</a> |
-| GMWSO | **Hikaru** | resigned ❌ | 21/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k1r/8/3N1PQ1/q6p/4p2P/1KN3P1/2P5/8 b - - 4 47">Link</a> |
-| **Hikaru** | Parhamov | agreed ⏸️ | 21/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3R1p2/3P1kp1/3r3p/7P/6P1/7K/8 b - - 4 43">Link</a> |
-| nihalsarin | **Hikaru** | insufficient ⏸️ | 21/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/k4n1K/8/8/8/8 w - - 0 63">Link</a> |
-| **Hikaru** | HansOnTwitch | win 🥇 | 21/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/1N4pp/R4p2/1P2p3/k1K1P3/5P1P/8/5n2 b - - 7 46">Link</a> |
-| **Hikaru** | Polish_fighter3000 | insufficient ⏸️ | 21/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/6K1/8/5Bk1/8/8 b - - 0 73">Link</a> |
-| FairChess_on_YouTube | **Hikaru** | win 🥇 | 21/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/p5k1/P4r2/3R4/2P3p1/1P6/1K6/8 w - - 2 41">Link</a> |
-| **Hikaru** | Oleksandr_Bortnyk | win 🥇 | 21/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/3P1p1p/pb3NpP/2nBP3/1pQ2P2/6P1/P5K1/1q6 w - - 1 41">Link</a> |
-| LiemLe | **Hikaru** | win 🥇 | 21/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/1pKR4/3P4/2P5/P4p2/8/5r2 w - - 4 73">Link</a> |
-| **Hikaru** | Sam_ChessMood | win 🥇 | 21/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k1KP2/4P3/8/8/8/8/5r2 b - - 0 65">Link</a> |
+| **Hikaru** | PyrihRoman | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2r2/1p2nkpp/p2Rpp2/8/2BNP3/2P5/P1P2PPP/2KR4 b - - 3 16">Link</a> |
+| PyrihRoman | **Hikaru** | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1k/p1N5/P5np/8/6PK/4q3/6Q1 w - - 0 48">Link</a> |
+| **Hikaru** | PyrihRoman | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk3/3b1p2/3p1Qp1/2q1n3/pp1NP2R/1P6/P1P4P/1K1R4 b - - 1 36">Link</a> |
+| PyrihRoman | **Hikaru** | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/2p2p2/1b1p2p1/1P1P3p/6bP/r3R1P1/2R2KN1 w - - 8 40">Link</a> |
+| **Hikaru** | PyrihRoman | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rrb1k1/pp2bpp1/3p1n1p/q2NpP2/3NP2P/3Q4/PPPB2P1/1K1R3R b - - 1 17">Link</a> |
+| PyrihRoman | **Hikaru** | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qr1k1/1p3pbp/2p1b1p1/p2n4/P1NP1p2/2PB2B1/1PQ2PPP/R3R1K1 w - - 0 17">Link</a> |
+| **Hikaru** | PyrihRoman | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/kb5P/4p2N/4p3/6P1/4KP2/8 b - - 1 62">Link</a> |
+| **Hikaru** | PyrihRoman | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/1b6/q2pBp2/5N2/1P2P2p/2R5/1K5P/2R5 b - - 5 46">Link</a> |
+| PyrihRoman | **Hikaru** | insufficient ⏸️ | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6b1/8/3k4/8/8/4BK2/8 b - - 0 76">Link</a> |
+| **Hikaru** | PyrihRoman | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/bp1R1Nkp/2p3p1/p1q1p1N1/P3Pn2/2P4P/1PQ2PP1/6K1 b - - 2 26">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
