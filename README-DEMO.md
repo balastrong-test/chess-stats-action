@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Hikaru** | Rakitic2010 | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/1p2p1b1/pqn1Q3/3pP1Pp/3P4/1P2N1B1/1P3PK1/3RR3 b - - 0 30">Link</a> |
-| Rakitic2010 | **Hikaru** | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/2R4p/p4pp1/P2p4/3pp3/2n2n1Q/2P2qPK/7R w kq - 2 32">Link</a> |
-| **Hikaru** | Rakitic2010 | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7R/3k2p1/8/2P2K1P/2r2N2/8/8 b - - 0 52">Link</a> |
-| Rakitic2010 | **Hikaru** | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1P6/2B3p1/4p2p/4P2P/3k4/2p5/1rK5 w - - 2 68">Link</a> |
-| **Hikaru** | Rakitic2010 | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rb1Q2/1b4B1/1p2p1k1/5p2/q1PP4/6R1/5PPP/3R2K1 b - - 2 27">Link</a> |
-| iiu | **Hikaru** | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1r5k/3Q2q1/8/2PpN2p/5P2/5PK1/8 w - - 2 52">Link</a> |
-| gurelediz | **Hikaru** | insufficient ⏸️ | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/8/8/4N3/4K3/8/8/8 b - - 0 115">Link</a> |
-| **Hikaru** | gurelediz | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5k2/5b2/1K6/8/1Q6/8 b - - 0 95">Link</a> |
-| gurelediz | **Hikaru** | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/p1q1bp1p/4n1p1/1p6/4N3/1P2PP1P/P4QP1/3R3K w - - 1 35">Link</a> |
-| **Hikaru** | gurelediz | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p4p2/2p2q2/1pn1pNpQ/4Pb2/8/PPPr2B1/4K2R b - - 4 29">Link</a> |
+| nightingaleblade | **Hikaru** | win 🥇 | 29/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4B1p1/2k1P3/6P1/5K2/8/q7 w - - 0 57">Link</a> |
+| **Hikaru** | nightingaleblade | win 🥇 | 29/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/1N3p2/p1p2P2/P1P2KpP/1n4P1/8/8 b - - 1 51">Link</a> |
+| FreddySTH | **Hikaru** | win 🥇 | 29/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/p4p1p/6p1/2pB4/2PbQ3/8/P4q2/4RK2 w - - 0 33">Link</a> |
+| **Hikaru** | FreddySTH | win 🥇 | 29/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/r1p2rkp/2Pp3Q/p2Pqp2/4p3/P3P1p1/5PK1/7R b - - 5 37">Link</a> |
+| FreddySTH | **Hikaru** | win 🥇 | 29/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1kb5/1p5Q/p2q1p2/4n3/1P6/P4N1P/5bP1/7K w - - 0 34">Link</a> |
+| **Hikaru** | FreddySTH | win 🥇 | 29/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k6/1p3K2/8/Q7/2N5/8/8 b - - 2 69">Link</a> |
+| **Hikaru** | dopolian | win 🥇 | 29/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2k2/1p1r1p2/2b3pN/4B2p/1P2P3/6PB/P7/1R4K1 b - - 2 39">Link</a> |
+| dopolian | **Hikaru** | win 🥇 | 29/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp4R1/5B2/4n3/4k3/5r2/PP3K2/8 w - - 4 45">Link</a> |
+| TheBrainCrusher | **Hikaru** | win 🥇 | 29/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rr2k1/1p3p2/p2pp3/8/1Q2P1n1/P1PR3R/1P4P1/2q4K w - - 2 31">Link</a> |
+| **Hikaru** | TheBrainCrusher | win 🥇 | 29/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/1pB3pk/1Pb2p2/P2r1P2/6PK/R6P/4Q3 b - - 0 38">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
