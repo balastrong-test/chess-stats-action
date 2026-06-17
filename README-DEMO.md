@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| MaximusDecimIV | **Hikaru** | win 🥇 | 15/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p2/b4Bp1/3B1p2/2P5/pr4q1/4Q2K/2b5 w - - 0 45">Link</a> |
-| **Hikaru** | MaximusDecimIV | win 🥇 | 15/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/k3B3/5p2/6p1/3Pp3/4P1P1/5P2/4KN1r b - - 1 42">Link</a> |
-| MaximusDecimIV | **Hikaru** | win 🥇 | 15/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2k4p/p2p2p1/3n2P1/PK6/8/5B2 w - - 0 46">Link</a> |
-| **Hikaru** | MaximusDecimIV | win 🥇 | 15/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k6r/3Q4/1p6/5p1p/1p4pP/1K1Rq1P1/8/1R6 b - - 3 39">Link</a> |
-| MaximusDecimIV | **Hikaru** | win 🥇 | 15/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1k1r/5p2/4p1p1/1Bp2nqp/p3Qn2/PpP5/1P3PP1/R4RK1 w - - 5 28">Link</a> |
-| **Hikaru** | MaximusDecimIV | win 🥇 | 15/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b5/7R/1k1n1r2/1p1pN3/p2P2P1/1PR1PP2/6K1/8 b - - 0 42">Link</a> |
-| MaximusDecimIV | **Hikaru** | win 🥇 | 15/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/pb3pb1/8/5R2/1pp1P1P1/6q1/PPP3B1/R2Q3K w - - 1 26">Link</a> |
-| Tenergy19 | **Hikaru** | win 🥇 | 14/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p2Pppb1/1p6/3P1Pp1/P5P1/4q1K1/4r3/7R w - - 1 45">Link</a> |
-| **Hikaru** | Tenergy19 | win 🥇 | 14/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/1nq2p1b/4p1nB/pp5N/7P/1P4P1/2PRQPB1/6K1 b - - 0 28">Link</a> |
-| **Hikaru** | Tenergy19 | win 🥇 | 14/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1B6/8/8/2p2k1p/2P2p1P/4pP2/8/5K2 b - - 0 53">Link</a> |
+| **Hikaru** | chess_286 | win 🥇 | 17/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q3k/2n1bQpr/4P3/1r2P3/3P4/P5Rp/1B1R1P2/3B3K b - - 2 36">Link</a> |
+| chess_286 | **Hikaru** | win 🥇 | 17/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2rk/pq2n1n1/3p1b1p/5p2/4pP1P/4B1PB/PP2Q2K/6RN w - - 0 29">Link</a> |
+| **Hikaru** | chess_286 | win 🥇 | 17/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/1pq1bNpp/4pp2/4P3/n2B1P1P/pQ4PB/P1P5/2KR3R b - - 2 27">Link</a> |
+| chess_286 | **Hikaru** | win 🥇 | 17/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1kn3r1/p7/1p1p4/2pNp3/4Pn2/2PP1Q2/5RB1/q4K2 w - - 2 41">Link</a> |
+| EthanNorris2006 | **Hikaru** | win 🥇 | 16/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rbk1/p4p1p/2p2pp1/8/P7/1P1q4/2Q2PPP/4R1K1 w - - 0 24">Link</a> |
+| **Hikaru** | EthanNorris2006 | win 🥇 | 16/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b1n3/5k1p/5qpP/1pQB4/5NP1/8/5PK1/8 b - - 6 45">Link</a> |
+| EthanNorris2006 | **Hikaru** | win 🥇 | 16/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/8/3N1n2/1B1P4/2P2B2/3b2KP/5P2/4r3 w - - 3 42">Link</a> |
+| **Hikaru** | EthanNorris2006 | win 🥇 | 16/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3k/p6R/3PpN1P/2p1n1p1/2P5/6P1/6K1/8 b - - 0 47">Link</a> |
+| EthanNorris2006 | **Hikaru** | win 🥇 | 16/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/1pk3P1/p7/2P1p1P1/1P6/6K1/8/8 w - - 1 40">Link</a> |
+| **Hikaru** | EthanNorris2006 | win 🥇 | 16/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pk1/5np1/3pQ1P1/2pP3q/2P5/4N3/5K2 b - - 1 73">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
