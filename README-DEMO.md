@@ -7,16 +7,16 @@ This file can be your README.md that gets automatically updated.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Hikaru** | GZQSH07 | win 🥇 | 26/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/R7/n3pBk1/1pp3Pp/1P2P3/2P2P1P/4K3/8 b - - 1 36">Link</a> |
-| GZQSH07 | **Hikaru** | win 🥇 | 26/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/p7/P5p1/3p4/3Rr1BP/1P2p1PK/5r2 w - - 4 42">Link</a> |
-| **Hikaru** | GZQSH07 | win 🥇 | 26/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/r4kp1/1P4N1/5Pp1/6P1/1r5P/p1K5/8 b - - 3 50">Link</a> |
-| GZQSH07 | **Hikaru** | win 🥇 | 26/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/k7/8/7Q/2q4K/8 w - - 19 91">Link</a> |
-| **Hikaru** | GZQSH07 | win 🥇 | 26/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3qrk1/pp3p2/2p2QpB/4p3/8/1P5P/2P1nPP1/R2R3K b - - 1 20">Link</a> |
-| Jynxzii | **Hikaru** | win 🥇 | 25/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/1pp3pp/p3pp2/3p4/3P1B2/2nRP3/q1P1QPPP/K2R4 w kq - 0 17">Link</a> |
-| **Hikaru** | Toxicmybrother | win 🥇 | 25/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1rr3/1Np1qpp1/p6p/3P4/1P6/5Q2/P4PPb/3RRK2 b - - 1 24">Link</a> |
-| Toxicmybrother | **Hikaru** | win 🥇 | 25/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q2k1/4rp2/1r4pp/p1p1P3/1pP2Q2/3P2PP/P3nPB1/1R1R2K1 w - - 3 33">Link</a> |
-| **Hikaru** | Toxicmybrother | win 🥇 | 25/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1br2r1k/pp3pp1/4pnq1/1P1p3p/3P4/2P1BPP1/1PB1Q2P/R3R2K b - - 3 33">Link</a> |
-| **Hikaru** | puz2010 | win 🥇 | 25/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R1k/8/6K1/8/8/8/8/8 b - - 36 111">Link</a> |
+| **Hikaru** | Tesla37 | win 🥇 | 27/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/7k/6P1/7P/5P1K/8/pq6/8 b - - 0 92">Link</a> |
+| **Hikaru** | Sargsyan_Shant | win 🥇 | 27/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k5R/8/1K6/4n3/P7/8/8 b - - 8 78">Link</a> |
+| dropstoneDP | **Hikaru** | win 🥇 | 27/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/4npp1/pp2b2p/8/4NP2/BP1R2Pq/P3Q3/6K1 w - - 5 34">Link</a> |
+| **Hikaru** | bulgakdamir | win 🥇 | 27/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k2r3/2p4p/2p5/3pB1b1/2nPp1B1/4r3/7P/RR5K b - - 1 33">Link</a> |
+| Sina-Movahed | **Hikaru** | insufficient ⏸️ | 27/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6K1/3k4/8/8/8/8/8 b - - 0 84">Link</a> |
+| **Hikaru** | Jospem | win 🥇 | 27/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3kn3/PK2p3/4P3/3p4/3N4/8/8 b - - 0 62">Link</a> |
+| Zhuu96 | **Hikaru** | repetition ⏸️ | 27/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pk1Q4/1p6/2p5/3p2p1/P5P1/1P3q2/K7 b - - 11 61">Link</a> |
+| **Hikaru** | GMBenjaminBok | win 🥇 | 27/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/2n5/8/2Nn1N2/8/7k/3P4/3K4 b - - 4 50">Link</a> |
+| artin10862 | **Hikaru** | win 🥇 | 27/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1P6/2Pk4/1K6/8/8/q7 w - - 0 58">Link</a> |
+| **Hikaru** | SahibSinghKnight | win 🥇 | 27/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rb1k4/pBp3pp/3n4/8/5q2/5P1P/PP1R4/1K2Q2N b q - 0 20">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
